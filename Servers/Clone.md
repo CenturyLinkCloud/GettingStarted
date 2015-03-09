@@ -1,5 +1,5 @@
 {{{
-  "title": "Clone",
+  "title": "Clone a Server",
   "date": "03-05-2015",
   "author": "Rich DuBose",
   "attachments": [],
@@ -9,30 +9,30 @@
   "contentIsHTML": false
 }}}
 
-Clones created for a variety of reasons including standardization, availability across platforms, & to create a baseline from which future virtual machines could be generated. Compatibility with the original system is usually the explicit purpose of cloning VM’s. Once you are satisfied with your server original server, this guide will walk you through the process of cloning your existing server.
+Cloning a server takes an exact copy of an existing machine. The server is shutdown to ensure that there are no pending operations/information held in memory, and then the server contents are copied. A cloned server is, for most purposes, an exact copy of the source; however, certain underlying settings are changed (UUID, MAC, SID, etc.). Cloning is an easy way to produce alternate copies of existing infrastructure – common use cases are migrating servers from “test” to “development” or adding another web server to an existing stack.
 
-**Navigate to the Status Page for the Server you wish to clone**
+## Clone a Server
 
-Once you are on the Status Page for the server you wish to clone, click on the ‘action’ menu option.  From the list, select ‘clone’.
+Once you've navigated to the server you wish to clone, select the **action** menu option. From the list, select **clone**, which will direct you to the Clone Server form.
 
-**You are now on the Clone Server Page.**
-The cloning process is very similar to the steps taken to create your original server.  However the Data Center, Operating System & Server Resources options have been removed.  The origin servers resources will be applied to the cloned server.
+![clone server menu option](../images/servers-clone-1.png)
 
-Complete the basic information by giving the new server a Name, Description & Root Password.
+The cloning process is very similar to the steps taken to create your original server. However the location, operating system and resources options have been removed. The origin servers' resources will be applied to the cloned server.
 
-**Network**
+Complete the basic information by giving the new server a Name, Description & Root Password. Select the account network, primary DNS and secondary DNS for this server. Accounts can have multiple networks within a particular data center.
 
-Select the account network, primary DNS and secondary DNS for this server. Accounts can have multiple networks within a particular data center.
+![clone server form](../images/servers-clone-2.png)
 
-**Server Lifespan (Time To Live) (Optional)**
+### Server Lifespan (Time To Live) (Optional)
 
 We recognize that sometimes server lifespans should coincide with a project lifespan, so we offer an optional time-to-live that allows you to schedule when the server should automatically be deleted. Setting a time to live results in a new Scheduled Task added to the server. If you need to extend the life of the server, this scheduled task can be changed after the server is provisioned.
 
-**Queue The Server Build**
+![Clone server time to live option](../images/servers-clone-3.png)
 
-Confirm your server settings, then select the clone server button to queue the server build. Once the server is built, it will appear in the group that you selected it be placed. Congratulations, you’ve successfully built a new virtual server on the CenturyLink Cloud!
+### Queue The Clone Server Build
 
+Confirm your cloned server settings, then select the **clone server** button to queue the server build. Once the server is built, it will appear in the group that you selected.
 
+![queue the clone server build](../images/servers-clone-4.png)
 
-
- 
+Congratulations, you’ve successfully cloned a server on the CenturyLink Cloud!
