@@ -1,7 +1,7 @@
 {{{
   "title": "Snapshot",
   "date": "03-05-2015",
-  "author": "Rich DuBose",
+  "author": "",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
@@ -9,13 +9,14 @@
   "contentIsHTML": false
 }}}
 
-Snapshots allow a server to be quickly reverted back to a set point in time. A snapshot is not a backup of a machine and should not be used as such! A snapshot must be deleted within a 10 day window. If an existing snapshot exists, it will be deleted.
+Snapshots allow a server to be quickly reverted back to a set point in time. A snapshot is not a backup of a machine and should not be used as such! A snapshot must be deleted within a 10 day window. If there is an snapshot, it will be deleted when a new snapshot is taken.
 
-**Navigate to the Status Page for the Server you wish to create a Snapshot of**
+Once you've navigated to the server who's storage allocation you wish to edit, there are two ways of creating a snapshot.  To Create a snapshot you can:
 
-There are two ways of creating a snapshot.  To Create a snapshot you can:
-Select ‘snapshot’ from the ‘actions’ drop down.
-Click on the ‘add’ button next to the ‘snapshot’ label in the Server Info panel on the right side of the page.
+1. Select ‘snapshot’ from the ‘actions’ drop down.
+
+
+2. Click on the ‘add’ button next to the ‘snapshot’ label in the Server Info panel on the right side of the page.
 
 **Create Snapshot Window**
 
@@ -36,5 +37,3 @@ When you originally created your snapshot you choose a maximum amount of time to
 **Navigate to the Server Status Page**
 
 To delete a snapshot you need to navigate to the Server Status page. The Snapshots available for your server will in the Server Info panel on the right hand side of the page.  To delete a snapshot, hover the mouse cursor over the snapshot name & the delete icon will appear.  Click the delete icon & confirm your desire to delete the snapshot on the subsequent window.
-
-

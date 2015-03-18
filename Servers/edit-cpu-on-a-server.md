@@ -1,7 +1,7 @@
 {{{
   "title": "Edit CPU on a Server",
   "date": "03-05-2015",
-  "author": "Rich DuBose",
+  "author": "",
   "attachments": [],
   "related_products": [],
   "related_questions": [],

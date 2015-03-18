@@ -1,7 +1,7 @@
 {{{
   "title": "Resize Disk",
   "date": "03-5-2015",
-  "author": "Rich DuBose",
+  "author": "",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
