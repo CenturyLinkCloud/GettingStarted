@@ -19,7 +19,7 @@ Select the **edit** button and enter the desired number of CPUs to your server i
 
 ![Edit CPU button](../images/servers-edit-cpu-1.png)
 
-The estimated price per month of the server, as well as the per hour price difference is displayed to show how your may effect the cost of the server.
+The estimated price per month of the server, as well as the per hour price difference is displayed to show how the change may effect the cost of the server.
 
 ![Edit the number of CPUs allocated to the server](../images/servers-edit-cpu-2.png)
 
