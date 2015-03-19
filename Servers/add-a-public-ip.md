@@ -1,7 +1,7 @@
 {{{
   "title": "Add a public IP",
   "date": "01-18-2015",
-  "author": "Author Name",
+  "author": "",
   "attachments": [],
   "related_products": [],
   "related_questions": [],

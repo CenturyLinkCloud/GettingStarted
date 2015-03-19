@@ -1,7 +1,7 @@
 {{{
   "title": "Create Custom Server",
   "date": "01-18-2015",
-  "author": "Nathan Young",
+  "author": "",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
@@ -15,7 +15,7 @@ The heart of the CenturyLink Cloud is the ability to create and manage virtual i
 
 There are two places to initiate this process. The first is from the top-most navigation menu under the Servers section.
 
-The second place to trigger this process is from within the Servers UI. From the Servers page, select the New Server (+) icon. 
+The second place to trigger this process is from within the Servers UI. From the Servers page, select the New Server (+) icon.
 
 ##Create Server Form: Provide Basic Server Information
 
@@ -25,7 +25,7 @@ Select a Data Center, Group, and Server Type ([Standard](http://www.centurylinkc
 
 ##Define Server Resources
 
-Specify CPU and memory allocation using the input box or slider. As resource values are changed, the estimated hourly and monthly prices will reflect those changes. Note, we can not foresee how you will utilize the server resource (for example, your server maybe powered off), this estimate isn’t a guarantee of actual costs, and is meant to provide a base level pricing transparency. If after a period of time you find that you need to increase or decrease resources, they can be changed after the server is provisioned. 
+Specify CPU and memory allocation using the input box or slider. As resource values are changed, the estimated hourly and monthly prices will reflect those changes. Note, we can not foresee how you will utilize the server resource (for example, your server maybe powered off), this estimate isn’t a guarantee of actual costs, and is meant to provide a base level pricing transparency. If after a period of time you find that you need to increase or decrease resources, they can be changed after the server is provisioned.
 
 If you’ve selected an operating system that supports CPU Autoscale, and you have a already defined a CPU Autoscale Policy, that will be available for selection. CPU Autoscale makes it possible to scale servers vertically based on utilization, ensuring optimal deployment of resources for cloud environments under a variety of conditions.
 
