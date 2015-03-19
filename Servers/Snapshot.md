@@ -21,7 +21,7 @@ Snapshots allow a server to be quickly reverted back to a set point in time. Thi
 
 3. Select the **create snapshot** button in the dialog window, and the snapshot will be queued.
 
-4. Once the snapshot has been taken, it will appear in the **Server Info** column on the right side of the server status page.
+4. Once the snapshot has been taken, it will appear in the **Server Info** column on the right side of the server status page. The name of the snapshot reflects the date and time the snapshot was taken.
 
   ![An existing server snapshot in the Control Portal](../images/servers-snapshot-3.png)
 
