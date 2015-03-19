@@ -25,8 +25,14 @@ Snapshots allow a server to be quickly reverted back to a set point in time. Thi
 
   ![An existing server snapshot in the Control Portal](../images/servers-snapshot-3.png)
 
-5. To restore the snapshot, select the snapshot name. A **Restore From Snapshot** dialog window. Clicking the Restore from Snapshot will redirect you to the Restore Snapshot Queue page where the snapshot will be applied. Once the restore process is complete, your server will be available it will appear in the group that you originally selected it be placed.
+5. To restore the snapshot, select the snapshot name. A **Restore From Snapshot** dialog window will ask you to confirm the restoration. Selecting the **restore from snapshot** button will queue the restoration process. When the restore process is complete, your server will be restored to the state when the snapshot was taken.
 
   ![Restore a snapshot in the Control Portal](../images/servers-snapshot-4.png)
 
 6. Congratulations, you've just taken and restored a server snapshot!
+
+For more information on snapshots, check out these articles in the [CenturyLink Cloud Knowledge Base](http://www.centurylinkcloud.com/knowledge-base/).
+
+* [Creating and Managing Server Snapshots](http://www.centurylinkcloud.com/knowledge-base/servers/creating-and-managing-server-snapshots/)
+* [Group Snapshots](http://www.centurylinkcloud.com/knowledge-base/servers/group-snapshots/)
+* [Veeam Snapshot Commit & Disk Consolidation ](http://www.centurylinkcloud.com/knowledge-base/servers/veeam-snapshot-commit-and-disk-consolidation/)
