@@ -1,6 +1,6 @@
 {{{
-  "title": "Snapshot",
-  "date": "03-05-2015",
+  "title": "Server Snapshot",
+  "date": "03-18-2015",
   "author": "",
   "attachments": [],
   "related_products": [],
@@ -9,31 +9,24 @@
   "contentIsHTML": false
 }}}
 
-Snapshots allow a server to be quickly reverted back to a set point in time. A snapshot is not a backup of a machine and should not be used as such! A snapshot must be deleted within a 10 day window. If there is an snapshot, it will be deleted when a new snapshot is taken.
+Snapshots allow a server to be quickly reverted back to a set point in time. This can be very useful if you want to perform a short term test or configuration changes. However, due to the way that snapshots operate, a snapshot is not a backup of a machine and there is a 10 day max life of a snapshot.
 
-Once you've navigated to the server who's storage allocation you wish to edit, there are two ways of creating a snapshot.  To Create a snapshot you can:
+1. Once you've navigated to the server you'd like to snapshot, select **snapshot** from the **actions** drop down in the power bar.
 
-1. Select ‘snapshot’ from the ‘actions’ drop down.
+  ![The Snapshot button in the Control Portal](../images/servers-snapshot-1.png)
 
+2. A dialog will appear where you'll need to select the number of days you wish to retain the snapshot. If a snapshot already exists, it will be replaced by the new snapshot &mdash; a server can only have a single snapshot at a time.
 
-2. Click on the ‘add’ button next to the ‘snapshot’ label in the Server Info panel on the right side of the page.
+  ![The Snapshot button in the Control Portal](../images/servers-snapshot-2.png)
 
-**Create Snapshot Window**
+3. Select the **create snapshot** button in the dialog window, and the snapshot will be queued.
 
-Select the number of days you wish to retain your server snapshot.
+4. Once the snapshot has been taken, it will appear in the **Server Info** column on the right side of the server status page.
 
-**Queue the Snapshot Build**
+  ![An existing server snapshot in the Control Portal](../images/servers-snapshot-3.png)
 
-**To Apply the Snapshot**
+5. To restore the snapshot, select the snapshot name. A **Restore From Snapshot** dialog window. Clicking the Restore from Snapshot will redirect you to the Restore Snapshot Queue page where the snapshot will be applied. Once the restore process is complete, your server will be available it will appear in the group that you originally selected it be placed.
 
-**Navigate to the Server Status Page**
+  ![Restore a snapshot in the Control Portal](../images/servers-snapshot-4.png)
 
-To apply a snapshot you need to navigate to the Server Status page. The Snapshots available for your server will in the Server Info panel on the right hand side of the page.  Click on the Snapshot name.  This will prompt the Restore From Snapshot window.  Clicking the Restore from Snapshot will redirect you to the Restore Snapshot Queue page where the snapshot will be applied.  Once the restore process is complete, your server will be available it will appear in the group that you originally selected it be placed.
-
-**To Delete A Snapshot**
-
-When you originally created your snapshot you choose a maximum amount of time to retain the snapshot.  The maximum value is 10 days. However, there is a way to delete your snapshot prior to your intiall timeframe selection.
-
-**Navigate to the Server Status Page**
-
-To delete a snapshot you need to navigate to the Server Status page. The Snapshots available for your server will in the Server Info panel on the right hand side of the page.  To delete a snapshot, hover the mouse cursor over the snapshot name & the delete icon will appear.  Click the delete icon & confirm your desire to delete the snapshot on the subsequent window.
+6. Congratulations, you've just taken and restored a server snapshot!
