@@ -9,40 +9,48 @@
   "contentIsHTML": false
 }}}
 
-The heart of the CenturyLink Cloud is the ability to create and manage virtual infrastructure. This guide will demonstrate how to provision a new virtual server in the CenturyLink Cloud.
+At the heart of CenturyLink Cloud, is the ability to create and manage virtual infrastructure. This guide will demonstrate how to provision a new cloud server in the CenturyLink Cloud.
 
-##Navigate to “Create Server”
+1. ### Navigate to the Create Server Form
 
-There are two places to initiate this process. The first is from the top-most navigation menu under the Servers section.
+  There are many places to navigate to the **Create Server** page, but for this demo we'll use the create pane on the dashboard of the Control Portal. Select the "+" icon on the left of the interface, and then select **Server**.
 
-The second place to trigger this process is from within the Servers UI. From the Servers page, select the New Server (+) icon.
+  ![create server link on the dashboard in the Control Portal](../images/servers-create-1.png)
 
-##Create Server Form: Provide Basic Server Information
+  From top to bottom, the Create Server form will walk you through the required steps to successfully provision a new server on CenturyLink Cloud.
 
-From top to bottom, the Create Server page will walk you through the required feels in order to successfully provision a new virtual server.
+2. ### Location, Type, Name and Password
 
-Select a Data Center, Group, and Server Type ([Standard](http://www.centurylinkcloud.com/servers) or [Hyperscale](http://www.centurylinkcloud.com/hyperscale)) to deploy to. Then choose the operating system template for this server from any of the available Windows and Linux templates offered by CenturyLink Cloud. If you have created custom templates in your account, they will be available in this list as well.
+  Choose a Data Center location for your server that's appropriate for your application. Then select the group to place that server in (the server can be moved to a different group later). Depending on the data center, [Managed Services](http://www.centurylinkcloud.com/managed-services/) is available for an additional cost per hour.
 
-##Define Server Resources
+  ![Server Create](../images/servers-create-2.png)
 
-Specify CPU and memory allocation using the input box or slider. As resource values are changed, the estimated hourly and monthly prices will reflect those changes. Note, we can not foresee how you will utilize the server resource (for example, your server maybe powered off), this estimate isn’t a guarantee of actual costs, and is meant to provide a base level pricing transparency. If after a period of time you find that you need to increase or decrease resources, they can be changed after the server is provisioned.
+  Select the server type ([Standard](http://www.centurylinkcloud.com/servers) or [Hyperscale](http://www.centurylinkcloud.com/hyperscale)), operating system template and enter a name for the server. If you have created custom templates in your account, they will be available in the operating system dropdown list as well. Note that the price per hour changes based on the selected operating system licensing cost.
 
-If you’ve selected an operating system that supports CPU Autoscale, and you have a already defined a CPU Autoscale Policy, that will be available for selection. CPU Autoscale makes it possible to scale servers vertically based on utilization, ensuring optimal deployment of resources for cloud environments under a variety of conditions.
+3. ### Server Resources
 
-Add storage disks to the server up to platform maximums based on server type. Storage disks can be expanded, added, and removed after the server is built. Choosing a Partition results in a formatted disk in the operating system. Raw Disk provides an unformatted volume.
+  Specify CPU and memory allocation using the input box or slider. As resource values are changed, the estimated hourly and monthly prices will reflect those changes. Note, we can not foresee how you will utilize the server resource (for example, your server maybe powered off), this estimate isn’t a guarantee of actual costs, and is meant to provide a base level pricing transparency. If after a period of time you find that you need to increase or decrease resources, they can be changed after the server is provisioned.
 
-Select a CPU Autoscale Policy making it possible to scale servers up and down based on utilization ensuring optimal deployment of resources for cloud environments under a variety of conditions.
+  ![Server Create](../images/servers-create-3.png)
 
-For standard server types, select an appropriate backup level for your new virtual machine. WIth Hyperscale servers, there is no built in storage redundancy or snapshot capability. You are responsible for any storage backups for Hyperscale servers.
+  If you’ve selected an operating system that supports CPU Autoscale, and you have a already defined a CPU Autoscale Policy, that will be available for selection. CPU Autoscale makes it possible to scale servers vertically based on utilization, ensuring optimal deployment of resources for cloud environments under a variety of conditions.
 
-##Network
+  Add storage disks to the server up to platform maximums based on server type. Storage disks can be expanded, added, and removed after the server is built. Choosing a Partition results in a formatted disk in the operating system. Raw Disk provides an unformatted volume.
 
-Select the account network, primary DNS and secondary DNS for this server. Accounts can have multiple networks within a particular data center.
+  Select a CPU Autoscale Policy making it possible to scale servers up and down based on utilization ensuring optimal deployment of resources for cloud environments under a variety of conditions.
 
-##Server Lifespan (Time To Live)
+  For standard server types, select an appropriate backup level for your new virtual machine. With Hyperscale servers, there is no built in storage redundancy or snapshot capability. You are responsible for any storage backups for Hyperscale servers.
 
-We recognize that sometimes server lifespans should coincide with a project lifespan, so we offer an optional time-to-live that allows you to schedule when the server should automatically be deleted. Setting a time to live results in a new [Scheduled Task](http://www.centurylinkcloud.com/scheduling) added to the server. If you need to extend the life of the server, this scheduled task can be changed after the server is provisioned.
+4. ### Network
 
-##Queue The Server Build
+  Select the account network, primary DNS and secondary DNS for this server. Accounts can have multiple networks within a particular data center.
 
-Confirm your server settings, then select the **create server** button to queue the server build. Once the server is built, it will appear in the group that you selected it be placed. Congratulations, you’ve successfully built a new virtual server on the CenturyLink Cloud!
+  ![Server Create](../images/servers-create-4.png)
+
+5. ### Server Lifespan (Time To Live)
+
+  We recognize that sometimes server lifespans should coincide with a project lifespan, so we offer an optional time-to-live that allows you to schedule when the server should automatically be deleted. Setting a time to live results in a new [Scheduled Task](http://www.centurylinkcloud.com/scheduling) added to the server. If you need to extend the life of the server, this scheduled task can be changed after the server is provisioned.
+
+6. ### Queue The Server Build
+
+  Confirm your server settings, then select the **create server** button to queue the server build. Once the server is built, it will appear in the group that you selected it be placed. Congratulations, you’ve successfully built a new virtual server on the CenturyLink Cloud!
