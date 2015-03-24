@@ -11,9 +11,7 @@
 
 Scheduled Tasks are used to set automated activities against cloud servers. This enables you to do things like coordinate maintenance activities, turn off developer/test servers over the weekend, or automatically delete or archive servers at the end of a project. This guide will walkthrough how to schedule a task on a single server, but scheduled tasks can also be set for server groups.
 
-### Archive a Server
-
-Once you've navigated to the server you wish to clone, select the **settings** item in the server power menu bar. Then select **scheduled tasks** to bring up the list of scheduled tasks for the server.
+Once you've navigated to the server you wish to schedule a task for, select the **settings** item in the server power menu bar. Then select **scheduled tasks** to bring up the list of scheduled tasks for the server.
 
 ![scheduled tasks](../images/servers-scheduled-task-1.png)
 
