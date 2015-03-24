@@ -27,7 +27,7 @@ Complete the form by selecting a task to execute and the date/time the task shou
 * Monthly
 * Weekly Custom. (select the day(s) of the week to run the task on)
 
-For a repeating tasks, you can set an optional expiration for the scheduled tasks after the task runs a certain number of times (**After Count**), or after a specified date (**After Date**).
+For repeating tasks, you can set an optional expiration for the scheduled tasks after the task runs a certain number of times (**After Count**), or after a specified date (**After Date**).
 
 ![Create scheduled task form](../images/servers-scheduled-task-3.png)
 
