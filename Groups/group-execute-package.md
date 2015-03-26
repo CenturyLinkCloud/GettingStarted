@@ -17,7 +17,7 @@ Here are the steps to follow for executing a package on a group of servers using
 
   ![Execute a package on a group of servers in the Control Portal](../images/group-execute-package-1.png)
 
-2. Select a package to apply to the servers in this group. You can view all available packages,  search by name, or filter based on visibility. (For advanced users looking to create their own custom packages, instructions can be found in the [CenturyLink Cloud Knowledge Base](http://www.centurylinkcloud.com/knowledge-base/blueprints/blueprints-script-and-software-package-management/).)
+2. Select a package to apply to the servers in this group. You can view all available packages,  search by name, or filter based on visibility. (For advanced users looking to create their own custom packages, instructions can be found in the [CenturyLink Cloud Knowledge Base](//www.centurylinkcloud.com/knowledge-base/blueprints/blueprints-script-and-software-package-management/).)
 
   ![Select a package](../images/group-execute-package-2.png)
 
