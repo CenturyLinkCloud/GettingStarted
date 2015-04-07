@@ -5,7 +5,8 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Add storage to a drive, or add additional disks to an existing server.",
+  "thumbnail" : "../images/servers-edit-disk-preview.png",
   "contentIsHTML": false
 }}}
 

@@ -5,7 +5,8 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Snapshot a server to so that it may quickly be reverted to a set point in time.",
+  "thumbnail" : "../images/servers-snapshot-preview.png",
   "contentIsHTML": false
 }}}
 

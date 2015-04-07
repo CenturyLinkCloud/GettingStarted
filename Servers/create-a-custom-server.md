@@ -5,7 +5,8 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Create a server with your exact resource specifications, network and optional time-to-live.",
+  "thumbnail" : "../images/servers-create-preview.png",
   "contentIsHTML": false
 }}}
 

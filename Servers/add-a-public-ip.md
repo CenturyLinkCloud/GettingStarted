@@ -5,7 +5,8 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Make your server accessible via the public internet by adding a public ip.",
+  "thumbnail" : "../images/servers-public-ip-preview.png",
   "contentIsHTML": false
 }}}
 

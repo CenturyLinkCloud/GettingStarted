@@ -5,7 +5,8 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Adjust the amount of memory allocated to an existing server.",
+  "thumbnail" : "../images/servers-edit-memory-preview.png",
   "contentIsHTML": false
   }}}
 

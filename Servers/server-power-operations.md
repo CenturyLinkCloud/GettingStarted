@@ -5,12 +5,13 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Understand the differences between each power command for a server.",
+  "thumbnail" : "../images/servers-power-ops-preview.png",
   "contentIsHTML": false
 }}}
 
 
-Easily issue power commands against individual servers or Groups of servers in the Control Portal. For Groups, this makes it easy to quickly power off or reboot sets of servers with a single command.
+Easily issue power commands against an individual server in the Control Portal.
 
 ![Server power operations on CenturyLink Cloud](../images/servers-power-ops.png)
 

@@ -5,7 +5,8 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Make an exact copy of an existing server.",
+  "thumbnail" : "../images/servers-clone-preview.png",
   "contentIsHTML": false
 }}}
 

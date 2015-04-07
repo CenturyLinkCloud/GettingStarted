@@ -5,12 +5,13 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Issue power commands against groups of servers in the Control Portal.",
++ "thumbnail": "../images/groups-power-ops-preview.png",
   "contentIsHTML": false
 }}}
 
 
-Easily issue power commands against Groups of servers in the Control Portal. This makes it easy to quickly power off or reboot sets of servers with a single command.
+Easily issue power commands against groups of servers in the Control Portal. This makes it easy to quickly power off or reboot sets of servers with a single command.
 
 ![Server power operations on CenturyLink Cloud](../images/groups-power-ops-1.png)
 

@@ -5,7 +5,8 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Archive a server to suspends the operating system and migrate the instance to a less costly storage tier.",
+  "thumbnail" : "../images/servers-archive-preview.png",
   "contentIsHTML": false
 }}}
 
