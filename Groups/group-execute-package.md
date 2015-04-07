@@ -6,7 +6,7 @@
   "related_products": [],
   "related_questions": [],
   "preview" : "Script or install software on multiple servers at once by executing a package on any or all of the servers in a group.",
-+ "thumbnail": "../images/group-execute-package-preview.png",
+  "thumbnail": "../images/group-execute-package-preview.png",
   "contentIsHTML": false
 }}}
 

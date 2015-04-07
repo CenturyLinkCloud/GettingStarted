@@ -6,7 +6,7 @@
   "related_products": [],
   "related_questions": [],
   "preview" : "Subscribe to key events that occur in your CenturyLink Cloud account.",
-+ "thumbnail": "../images/webhooks-walkthrough-preview.png",
+  "thumbnail": "../images/webhooks-walkthrough-preview.png",
   "contentIsHTML": false
 }}}
 

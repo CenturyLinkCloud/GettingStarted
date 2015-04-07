@@ -6,7 +6,7 @@
   "related_products": [],
   "related_questions": [],
   "preview" : "Issue power commands against groups of servers in the Control Portal.",
-+ "thumbnail": "../images/groups-power-ops-preview.png",
+  "thumbnail": "../images/groups-power-ops-preview.png",
   "contentIsHTML": false
 }}}
 
