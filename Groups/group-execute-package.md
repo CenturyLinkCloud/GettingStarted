@@ -5,7 +5,8 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "thumbnail": "../images/test-preview.png"
+  "preview" : "CenturyLink Cloud users can easily run a script or install software on multiple servers at once",
   "contentIsHTML": false
 }}}
 
