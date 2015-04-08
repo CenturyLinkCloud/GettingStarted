@@ -16,20 +16,28 @@ Packages execute against servers whether they are running or not; for servers th
 
 Here are the steps to follow for executing a package on a group of servers using Control Portal:
 
-1. Navigate to the group containing the servers you wish to execute the package on. In the **action** item in the power ops menu, select **execute package**.
+### 1. Navigate to the Group Status
+
+  Navigate to the group containing the servers you wish to execute the package on. In the **action** item in the power ops menu, select **execute package**.
 
   ![Execute a package on a group of servers in the Control Portal](../images/group-execute-package-1.png)
 
-2. Select a package to apply to the servers in this group. You can view all available packages,  search by name, or filter based on visibility. (For advanced users looking to create their own custom packages, instructions can be found in the [CenturyLink Cloud Knowledge Base](//www.centurylinkcloud.com/knowledge-base/blueprints/blueprints-script-and-software-package-management/).)
+### 2. Package Selection
+
+  Select a package to apply to the servers in this groupYou can view all available packages,  search by name, or filter based on visibility. (For advanced users looking to create their own custom packages, instructions can be found in the [CenturyLink Cloud Knowledge Base](//www.centurylinkcloud.com/knowledge-base/blueprints/blueprints-script-and-software-package-management/).)
 
   ![Select a package](../images/group-execute-package-2.png)
 
-3. After selecting a package, the description will appear along with a place to enter values for all the parameters defined the package, if there are any. Fill out all the fields then continue to scroll down. (The example below shows the required fields for the "Install SQL Server on Windows" package.)
+### 3. Enter Required Package Fields
+
+  After selecting a package, the description will appear along with a place to enter values for all the parameters defined the package, if there are any. Fill out all the fields then continue to scroll down. (The example below shows the required fields for the "Install SQL Server on Windows" package.)
 
   ![Fill out all the package parameters](../images/group-execute-package-3.png)
 
-4. Finally, select the server(s) that you'd like the package to run on. You may choose any or all servers under the given group's hierarchy provided they are running the selected package's supported operating system(s).
+### 4. Select Servers
+
+  Finally, select the server(s) that you'd like the package to run on. You may choose any or all servers under the given group's hierarchy provided they are running the selected package's supported operating system(s).
 
   ![Select the servers to run the package on](../images/group-execute-package-4.png)
 
-5. Click **execute package** and a job will be added to the queue to execute the package on the selected servers.
+  Click **execute package** and a job will be added to the queue to execute the package on the selected servers.
