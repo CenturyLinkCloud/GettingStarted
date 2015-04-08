@@ -10,6 +10,8 @@
   "contentIsHTML": false
 }}}
 
+### Introduction
+
 During the lifespan of your server you may be faced with conditions that require you to adjust the size of existing disks, or add or delete disk partitions of your cloud server. Here's how to resize a disk through the Control Portal.
 
 ### Edit Existing Storage

@@ -10,11 +10,15 @@
   "contentIsHTML": false
 }}}
 
-1. Navigate to the server you wish to add a public ip address to. In the **action** item in the power ops menu, select **add public ip**.
+### 1. Navigate to Server Status
+
+  Navigate to the server you wish to add a public ip address to. In the **action** item in the power ops menu, select **add public ip**.
 
   ![Add a public ip address to a server in the Control Portal](../images/servers-public-ip-1.png)
 
-2. The **Add Public IP Address** form will appear. Enter values in the appropriate fields that will meet your needs. In the form, you can specify which multiple single port, port ranges and CIDR Source IP ranges to open.
+### 2. Enter Public IP Settings
+
+  The **Add Public IP Address** form will appear. Enter values in the appropriate fields that will meet your needs. In the form, you can specify which multiple single port, port ranges and CIDR Source IP ranges to open.
 
   ![Add a public ip address to a server in the Control Portal](../images/servers-public-ip-2.png)
 
@@ -30,4 +34,4 @@
 
   **Source IP (CIDR):**  The list(s) of source IP or IP Ranges with defined TCP or UDP ports, in CIDR format. All other traffic will be blocked. Please see http://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing or http://www.ipaddressguide.com/cidr for more details on proper format of CIDR ranges in the interface.
 
-3. Select the **add public ip address** button and an publicly accessible ip address/port combination will be added to your server.
+  Finally, select the **add public ip address** button and an publicly accessible ip address/port combination will be added to your server.

@@ -10,6 +10,8 @@
   "contentIsHTML": false
 }}}
 
+### Introduction
+
 At the heart of CenturyLink Cloud, is the ability to create and manage virtual infrastructure. This guide will demonstrate how to provision a new cloud server in the CenturyLink Cloud.
 
 ### 1. Navigate to the Create Server Form
