@@ -1,9 +1,7 @@
 {{{
   "category_order": [
-    "Groups",
-    "Networking",
-    "Blueprints",
     "Servers",
+    "Groups",
     "API"
   ] 
 }}}
