@@ -10,6 +10,8 @@
   "contentIsHTML": false
 }}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zPONIrlHRms?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ### 1. Navigate to Server Status
 
   Navigate to the server you wish to add a public ip address to. In the **action** item in the power ops menu, select **add public ip**.

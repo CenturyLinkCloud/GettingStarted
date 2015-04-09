@@ -10,6 +10,8 @@
   "contentIsHTML": false
 }}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kPKy2ixJeAU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ### Introduction
 
 Archiving a server suspends the operating system and migrates the instance to a less costly storage tier. However, it should be noted that bringing a server out of an archive state can take a few hours, so *archive* should not be used as a means for controlling costs if the server needs to change state quickly.

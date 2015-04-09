@@ -8,7 +8,9 @@
   "preview" : "Adjust the amount of memory allocated to an existing server.",
   "thumbnail" : "../images/servers-edit-memory-preview.png",
   "contentIsHTML": false
-  }}}
+}}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mfT9ejQmqw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Introduction
 

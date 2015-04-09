@@ -10,6 +10,8 @@
   "contentIsHTML": false
 }}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HYbNvnehELQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ### Introduction
 
 Cloning a server takes an exact copy of an existing machine. The server is shutdown to ensure that there are no pending operations/information held in memory, and then the server contents are copied. A cloned server is, for most purposes, an exact copy of the source; however, certain underlying settings are changed (UUID, MAC, SID, etc.). Cloning is an easy way to produce alternate copies of existing infrastructure – common use cases are migrating servers from “test” to “development” or adding another web server to an existing stack.

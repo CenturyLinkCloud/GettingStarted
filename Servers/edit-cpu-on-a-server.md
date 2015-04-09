@@ -8,7 +8,9 @@
   "preview" : "Adjust the amount of cpu allocated to an existing server.",
   "thumbnail" : "../images/servers-edit-cpu-preview.png",
   "contentIsHTML": false
-  }}}
+}}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JRdbbY_A5tQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Introduction
 
