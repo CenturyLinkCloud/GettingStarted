@@ -8,11 +8,15 @@
   "preview" : "Adjust the amount of memory allocated to an existing server.",
   "thumbnail" : "../images/servers-edit-memory-preview.png",
   "contentIsHTML": false
-  }}}
+}}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mfT9ejQmqw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+### Introduction
 
 Whether you’re taking a development server into production, or facing a seasonal-related traffic spike, you may need to adjust the memory or memory resources allocated to your server. Here's how to do it through the Control Portal.
 
-## Edit Memory on a Server
+### Edit Memory on a Server
 
 Once you've navigated to the server who's memory allocation you wish to edit, hover over the memory count and the edit button will appear.
 

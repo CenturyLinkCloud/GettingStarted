@@ -70,7 +70,7 @@ The following raw HTTP request message shows how a user can make a secure API re
 
 #### Request
 
-    POST https://api.ctl.io/v2/servers/ALIAS HTTP/1.1
+    POST https://api.ctl.io/v2/servers/BTDI HTTP/1.1
     Host: api.ctl.io
     Content-Type: application/json
     Authorization: Bearer VGCVlA1JK5WLEXicGVujiJblEIApnIJhicZcNZG1MjvJI5IQXJime3tzQYOYHjLuX2NiZLiJvTRi2JOXdcbkX46UWzmIZnJIzpM6JjpmJDB.iX91ML6IzhdX62cekloAB6uJUOjjoi1xClUOBXZmXJxciUzdje2MJM96VM1Mk4NOXubYIXbbiwf06E1YQbeEsKIy1HdizndJWyJVs4XCGiwpTdlyiRXkGrikopi0I5pI.6RYzOrI2lj4bYZsJzeWXGCRNpyXjIbbJLcJL3ckH4CjbisZnZJYMiiIYgD1plIa9JUXuFUG4iymCQV2JXiJluZiziRJYk0b1VJhIRc3M13ihOe
