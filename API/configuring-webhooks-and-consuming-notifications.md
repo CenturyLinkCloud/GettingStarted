@@ -22,7 +22,7 @@ A Webhook listener is simply a web application that can receive a JSON message v
  - Process HTTP POST requests and handle the payload for each message type. (Examples of the payload for each type can be found in the [Webhooks FAQ](//www.centurylinkcloud.com/api-docs/v2/#webhooks-webhooks-faq).)
  - The Webhook listener must be deployed to an internet-facing location that is reachable by the CenturyLink Cloud platform and that has a valid (not self-signed) SSL certificate.
 
-A working example application written in Node.js can be [downloaded from GitHub](https://github.com/Tier3/Examples/tree/master/CLC.WebHookListener) and seen in action at [https://clcwebhooklistener.cfapps.io](https://clcwebhooklistener.cfapps.io). This example application will be the Webhook listener used for the rest of this demonstration.
+A working example application written in Node.js can be [downloaded from GitHub](https://github.com/Tier3/Examples/tree/master/CLC.WebHookListener) and seen in action at [https://clcwebhooklistener.useast.appfog.ctl.io/](https://clcwebhooklistener.useast.appfog.ctl.io/). This example application will be the Webhook listener used for the rest of this demonstration.
 
 ![Webhooks Example Application](../images/webhooks-walkthrough-01.png)
 
