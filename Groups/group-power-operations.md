@@ -10,6 +10,8 @@
   "contentIsHTML": false
 }}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/22Mu7JjtSh4" frameborder="0" allowfullscreen></iframe>
+
 ### Introduction
 
 Easily issue power commands against groups of servers in the Control Portal. This makes it easy to quickly power off or reboot sets of servers with a single command.

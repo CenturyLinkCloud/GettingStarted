@@ -1,6 +1,6 @@
 {{{
   "title": "Resize Disk",
-  "date": "03-5-2015",
+  "date": "04-06-2015",
   "author": "",
   "attachments": [],
   "related_products": [],
