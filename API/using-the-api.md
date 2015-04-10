@@ -6,6 +6,7 @@
   "related_products": [],
   "related_questions": [],
   "preview" : "",
+  "thumbnail": "../images/api-preview.png",
   "contentIsHTML": false
 }}}
 
