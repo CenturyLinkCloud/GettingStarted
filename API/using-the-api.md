@@ -5,7 +5,7 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "",
+  "preview" : "Programmatically perform the same actions as the Control Portal.",
   "thumbnail": "../images/api-preview.png",
   "contentIsHTML": false
 }}}
