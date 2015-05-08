@@ -28,13 +28,13 @@ You may also navigate to AppFog via the icon on the left-side vertical navigatio
 
 ![AppFog icon in Vertical Navigation](../images/appfog-icon-nav.png)
 
-Navigate to AppFog using either navigation approach and now it is time to create an AppFog Organization unless someone else has done so for your Control Portal account. You will know that an AppFog Organization has been created for your account if there is no “create org” button and instead it looks something like the following:
-
-![AppFog Overview](../images/appfog-overview.png)
-
-If the AppFog Organization has not been created for your account, then click the "create org" button:
+Navigate to AppFog using either navigation approach and now it is time to create an AppFog Organization for your Control Portal account.
 
 ![AppFog Create Organization](../images/appfog-create-org.png)
+
+Click the "create org" button and once it has successfully created an AppFog Organization for your Control Portal account you should see a view that looks similar to:
+
+![AppFog Overview](../images/appfog-overview.png)
 
 ### Install Cloud Foundry CLI
 
