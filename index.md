@@ -2,6 +2,7 @@
   "category_order": [
     "Servers",
     "Groups",
-    "API"
+    "API",
+    "AppFog"
   ] 
 }}}
