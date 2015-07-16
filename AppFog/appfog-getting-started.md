@@ -1,12 +1,12 @@
 {{{
   "title": "Getting Started with AppFog",
-  "date": "05-08-2015",
+  "date": "07-16-2015",
   "author": "Chris Sterling",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
   "preview" : "Setup access and deploy an application to AppFog.",
-  "thumbnail": "../images/TODO-appfog-preview.png",
+  "thumbnail": "../images/appfog-deploy-preview.png",
   "contentIsHTML": false
 }}}
 
@@ -20,21 +20,17 @@ AppFog supports the followng common application runtimes: Java, Node.js, PHP, Py
 
 ### Enable AppFog in Control Portal
 
-Go to https://control.ctl.io, login, and you should see “AppFog" listed in the drop down navigation bar:
-
-![AppFog in Dropdown Navigation](../images/appfog-in-dropdown-nav.png)
-
-You may also navigate to AppFog via the icon on the left-side vertical navigation bar:
+Go to https://control.ctl.io, login, and navigate to AppFog via the icon on the left vertical navigation bar:
 
 ![AppFog icon in Vertical Navigation](../images/appfog-icon-nav.png)
 
-Navigate to AppFog using either navigation approach and now it is time to create an AppFog Organization for your Control Portal account.
+Now it is time to create an AppFog Organization for your Control Portal account. From the list of available regions, select the "add region" button and to activate it.
 
 ![AppFog Create Organization](../images/appfog-create-org.png)
 
-Click the "create org" button and once it has successfully created an AppFog Organization for your Control Portal account you should see a view that looks similar to:
+Once the region is activated, three spaces &mdash; Dev, QA, Prod &mdash; are created automatically.
 
-![AppFog Overview](../images/appfog-overview.png)
+![AppFog Active Org](../images/appfog-org-overview.png)
 
 ### Install Cloud Foundry CLI
 
@@ -51,22 +47,14 @@ cf version 6.10.0-b78bf10-2015-02-11T22:25:45+00:00
 
 ### Login to AppFog
 
-Now that we have the Cloud Foundry CLI installed, lets login to AppFog. Go to the AppFog overview page in the Control Portal by navigation using the “AppFog" link listed in the drop down navigation bar:
+Now that we have the Cloud Foundry CLI installed, lets login to AppFog. In the Control Portal, view the active AppFog region (you may need to refresh your browser) and Copy the full `cf login` shell command from the "Overview" tab.
 
-![AppFog in Dropdown Navigation](../images/appfog-in-dropdown-nav.png)
+![AppFog Organization Overview in US East Region](../images/appfog-overview.png)
 
-Or you may also navigate to AppFog via the icon on the left-side vertical navigation bar:
-
-![AppFog icon in Vertical Navigation](../images/appfog-icon-nav.png)
-
-Now navigate to the "US East" AppFog region from the left-side navigation tree:
-
-![AppFog Organization Overview in US East Region](../images/appfog-org-overview.png)
-
-Copy the full `cf login` shell command from the "Overview" tab. The command should look similar to:
+The command should look similar to:
 
 ```
-cf login -a https://api.useast.appfog.ctl.io -o C007 -u csterling_demo
+cf login -a https://api.useast.appfog.ctl.io -o C007 -u trent.anderson
 ```
 
 Now paste the `cf login` command into a terminal shell and run it. You should be prompted for your CenturyLink Cloud Control Portal password.
