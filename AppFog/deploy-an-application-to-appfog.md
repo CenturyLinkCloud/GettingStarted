@@ -5,7 +5,7 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "Setup and deploy an application to AppFog using the Control Portal and Cloud Foundry CLI.",
+  "preview" : "Create an Org and deploy an application to AppFog using the Control Portal and Cloud Foundry CLI.",
   "thumbnail": "../images/appfog-deploy-preview.png",
   "contentIsHTML": false
 }}}
