@@ -1,11 +1,11 @@
 {{{
-  "title": "Getting Started with AppFog",
+  "title": "Deploy an Application to AppFog",
   "date": "07-16-2015",
   "author": "Chris Sterling",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "Setup access and deploy an application to AppFog.",
+  "preview" : "Setup and deploy an application to AppFog using the Control Portal and Cloud Foundry CLI.",
   "thumbnail": "../images/appfog-deploy-preview.png",
   "contentIsHTML": false
 }}}
