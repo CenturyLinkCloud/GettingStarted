@@ -10,6 +10,8 @@
   "contentIsHTML": false
 }}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bsUAX1L3A1Y" frameborder="0" allowfullscreen></iframe>
+
 ### Introduction
 
 AppFog is a public Platform-as-a-Service (PaaS) that makes deploying scalable, robust, high performing [cloud-ready applications](http://12factor.net) fast and easy for developers. AppFog enables developers to focus on writing great applications without having to worry about managing the underlying infrastructure. The result is increased agility and productivity, more efficient use of resources, and a simplified deployment and management experience.
