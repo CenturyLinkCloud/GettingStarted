@@ -74,7 +74,7 @@ Choose Space number 1 "Dev" as shown in the image above. You are now logged in a
 We currently support applications using the following application runtimes in AppFog by default:
 
 * Java
-* [Node.js](deploy-nodejs-application.md)
+* [Node.js](//www.ctl.io/knowledge-base/appfog/deploy-nodejs-application)
 * Ruby
 * PHP
 * Python
