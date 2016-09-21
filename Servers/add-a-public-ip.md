@@ -32,7 +32,7 @@
 
   **Port Range:** A specific range of TCP or UDP ports for an application service
 
-  **Restrict Source Trafic:**= A flag that allows you to input a source IP filter on the public IP. If this is not enabled, any ports defined will be accessible by anyone on the public internet.
+  **Restrict Source Traffic:** A flag that allows you to input a source IP filter on the public IP. If this is not enabled, any ports defined will be accessible by anyone on the public internet.
 
   **Source IP (CIDR):**  The list(s) of source IP or IP Ranges with defined TCP or UDP ports, in CIDR format. All other traffic will be blocked. Please see http://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing or http://www.ipaddressguide.com/cidr for more details on proper format of CIDR ranges in the interface.
 
