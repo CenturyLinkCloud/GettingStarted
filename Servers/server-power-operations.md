@@ -28,7 +28,7 @@ Initiates a graceful shutdown of the corresponding server or servers. Like the â
 
 ### Pause
 
-When a server is paused, its state is frozen (e.g. memory, open applications) and monitoring ceases. Billing charges for CPU and memory stop. A paused machine can be quickly brought back to life by issuing the **On** power command. Any applicable licensing charges continue to accrue while a machine is paused.
+When a server is paused, its state is frozen (e.g. memory, open applications) and monitoring ceases. Billing charges for CPU and memory stop, but storage costs continue to accrue. A paused machine can be quickly brought back to life by issuing the **On** power command. Any applicable licensing charges continue to accrue while a machine is paused.
 
 ### Reboot
 
