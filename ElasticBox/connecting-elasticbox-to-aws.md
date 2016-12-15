@@ -17,7 +17,7 @@ You need to connect your cloud account before you can deploy workloads from Elas
 
 ### Create Custom AWS Policy
 
-First, you need to create a custom AWS policy. From within your AWS account, click on the **Services** tab at the top of the page. From the drop down, select **IAM** &msash; Amazon’s Identity and Access Management service.
+First, you need to create a custom AWS policy. From within your AWS account, click on the **Services** tab at the top of the page. From the drop down, select **IAM** &mdash; Amazon’s Identity and Access Management service.
 
 ![ElasticBox Select AWS IAM](../images/elasticbox-aws-iam.png)
 
