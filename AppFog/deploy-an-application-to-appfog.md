@@ -18,7 +18,7 @@ AppFog is a public Platform-as-a-Service (PaaS) that makes deploying scalable, r
 
 ![Work on code, not infrastructure](../images/appfog-vs-traditional.png)
 
-AppFog supports the followng common application runtimes: Java, Node.js, PHP, Python, Go, Ruby, and Static Websites. Integrating with services such as databases, messaging middleware, load balancing, monitoring and more are easily provisioned through the AppFog Marketplace.
+AppFog supports the following common application runtimes: Java, Node.js, PHP, Python, Go, Ruby, and Static Websites. Integrating with services such as databases, messaging middleware, load balancing, monitoring and more are easily provisioned through the AppFog Marketplace.
 
 ### Enable AppFog in Control Portal
 
