@@ -1,6 +1,7 @@
 {{{
   "title": "Large Scale Continuous Deployments to Hybrid Clouds",
   "date": "12-12-2016",
+  "author": [],
   "attachments": [],
   "related_products": [],
   "related_questions": [],

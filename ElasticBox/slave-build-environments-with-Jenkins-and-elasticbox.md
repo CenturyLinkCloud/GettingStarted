@@ -1,6 +1,7 @@
 {{{
   "title": "Launch Slave Build Environments with Jenkins and ElasticBox",
   "date": "12-12-2016",
+  "author": [],
   "attachments": [],
   "related_products": [],
   "related_questions": [],

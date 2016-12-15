@@ -1,6 +1,7 @@
 {{{
   "title": "Connecting Your AWS Account in ElasticBox",
   "date": "12-12-2016",
+  "author": [],
   "attachments": [],
   "related_products": [],
   "related_questions": [],
