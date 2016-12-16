@@ -1,7 +1,7 @@
 {{{
   "title": "Installing the ElasticBox Virtual Appliance in OpenStack",
   "date": "12-12-2016",
-  "author": [],
+  "author": "",
   "attachments": [],
   "related_products": [],
   "related_questions": [],

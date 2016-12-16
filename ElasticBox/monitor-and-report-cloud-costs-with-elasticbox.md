@@ -1,7 +1,7 @@
 {{{
   "title": "Monitor and Report on Cloud Costs from ElasticBox",
   "date": "12-12-2016",
-  "author": [],
+  "author": "",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
