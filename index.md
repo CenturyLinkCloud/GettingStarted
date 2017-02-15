@@ -1,7 +1,7 @@
 {{{
   "category_order": [
     "AppFog",
-    "ElasticBox",
+    "CloudApplicationManager",
     "Servers",
     "Groups",
     "API"
