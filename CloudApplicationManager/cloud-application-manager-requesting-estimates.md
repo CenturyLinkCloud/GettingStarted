@@ -18,7 +18,7 @@ This tutorial will show you how to access your account's estimated Azure cloud u
 
 ### Accessing the API
 
-To access this functionality you'll need a bearer token for the CenturyLink Cloud account that is associated with the Azure Customer account. This is because we use the CenturyLink Cloud account to tie the Azure Customer account into our billing API. You can find more details about the CenturyLink Cloud [APIv2 on our website](../api-docs/v2/#billing).
+To access this functionality you'll need a bearer token for the CenturyLink Cloud account that is associated with the Azure Customer account. This is because we use the CenturyLink Cloud account to tie the Azure Customer account into our billing API. You can find more details about the CenturyLink Cloud [APIv2 on our website](https://www.ctl.io/api-docs/v2/#billing).
 
 ![CenturyLink Cloud APIs](../images/cloud-application-manager-estimates1.png)
 
