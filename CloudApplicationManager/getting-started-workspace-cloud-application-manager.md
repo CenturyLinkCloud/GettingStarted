@@ -6,7 +6,7 @@
   "related_products": [],
   "related_questions": [],
   "preview" : "An overview of Cloud Application Manager",
-  "thumbnail": "../images/cloud-application-manager-create-new-provider-thumbnail.png",
+  "thumbnail": "../images/cloud-application-manager-getting-started-workspace-thumbnail.png",
   "contentIsHTML": false
 }}}
 
@@ -46,7 +46,7 @@ Once you've set up a provider, there are several default deployment policy boxes
 
 Deployment policies are only one type of box that can be deployed in the Cloud Application Manager workspace. To access other types, again navigate to the "Boxes" tab on the top toolbar, then on the left toolbar click "Explore".
 
-![Cloud Application Manager Getting Started Workspace 3](../images/ccloud-application-manager-getting-started-workspace-3.png)
+![Cloud Application Manager Getting Started Workspace 3](../images/cloud-application-manager-getting-started-workspace-3.png)
 
 This will show you all the different types of default boxes available to you from day one when you use Cloud Application Manager.
 
