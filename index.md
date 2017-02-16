@@ -1,9 +1,9 @@
 {{{
   "category_order": [
-    "AppFog",
     "CloudApplicationManager",
     "Servers",
     "Groups",
-    "API"
+    "API",
+    "AppFog"
   ]
 }}}
