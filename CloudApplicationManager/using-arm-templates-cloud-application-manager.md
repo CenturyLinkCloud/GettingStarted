@@ -40,7 +40,7 @@ Fill in the required deployment policy box name and any other details.
 
 You can also add claims from the existing ones or create your own and select an instance lifespan; here we’re going to leave the instance lifespan as "always on". Once you're done, save the deployment policy box.
 
-![Cloud Application Manager Using ARM Templates 2](../images/cloud-application-manager-using-arm-templates2.png)
+![Cloud Application Manager Using ARM Templates 2](../images/cloud-application-manager-using-arm-templates-2.png)
 
 ### Apply Template Box
 
