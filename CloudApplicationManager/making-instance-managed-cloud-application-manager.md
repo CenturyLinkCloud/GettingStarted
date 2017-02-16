@@ -32,7 +32,7 @@ From the list of available instances, select the drop-down next to the instance 
 
 Select "Delegate OS Management" from the drop-down list.
 
-![Cloud Application Manager Getting Started Workspace 1](../images/cloud-application-manager-make-instance-managed-1.png)
+![Cloud Application Manager Make Instance Managed 1](../images/cloud-application-manager-make-instance-managed-1.png)
 
 ### Delegate OS Management
 
@@ -42,7 +42,7 @@ Agree to the Delegate OS Management terms by clicking the checkbox.
 
 The click "Enable."
 
-![Cloud Application Manager Getting Started Workspace 2](../images/cloud-application-manager-make-instance-managed-2.png)
+![Cloud Application Manager Make Instance Managed 2](../images/cloud-application-manager-make-instance-managed-2.png)
 
 ### Cloud Application Manager Process
 
@@ -52,4 +52,4 @@ While the process is running, the instance state will change to "Reinstalling" i
 
 When complete, the instance state will change to "Online." You instance is now managed with Cloud Application Manager Managed Services.
 
-![Cloud Application Manager Getting Started Workspace 3](../images/cloud-application-manager-make-instance-managed-3.png)
+![Cloud Application Manager Make Instance Managed 3](../images/cloud-application-manager-make-instance-managed-3.png)
