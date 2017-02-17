@@ -14,7 +14,7 @@
 
 ### Introduction
 
-You need to be a CenturyLink Cloud account admin in order to set up a new ARM provider in Cloud Application Manager. This tutorial demonstrates the alert message that will display if a non-admin will attempts to create a new ARM provider.
+You need to be a CenturyLink Cloud account admin in order to set up a new ARM provider in [Cloud Application Manager](https://www.ctl.io/cloud-application-manager). This tutorial demonstrates the alert message that will display if a non-admin attempts to create a new ARM provider.
 
 ![Error: Non-Admin Setting Up a Provider](../images/cloud-application-manager-error2.png)
 
@@ -36,7 +36,9 @@ Click **Connect a CenturyLink Cloud Account** and enter your CLC account admin c
 
 ### The Exception Message
 
-For billing purposes, only a CenturyLink Cloud account admin is able to approve Azure usage charges. We assume non-admins have not been given high-enough permissions to be able to approve those charges. Therefore, if a non-admin attempts to create a new Azure Customer, you will see this exception message.
+For billing purposes, only a CenturyLink Cloud account admin is able to approve Azure usage charges. We assume non-admins have not been given high-enough permissions to be able to approve those charges. Therefore, if a non-admin attempts to create a new Azure Customer, you will see the following exception message.
+
+"Thank you for your interest in gaining access to Integrated Azure. A centuryLink Cloud account administrator for your account as the ability to provide access to you. Please visit https://www.cti.io/knowledge-base/accounts-&-users/user-permissions/ to learn how to locate your account administrator."
 
 ![Cloud Application Manager Error: Non-Admin Setting Up a Provider](../images/cloud-application-manager-error2.png)
 

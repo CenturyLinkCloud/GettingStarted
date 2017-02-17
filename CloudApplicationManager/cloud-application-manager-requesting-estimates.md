@@ -14,7 +14,7 @@
 
 ### Introduction
 
-This tutorial will show you how to access your account's estimated Azure cloud usage through Cloud Application Manager for month-to-date and end-of-month via API.
+This tutorial will show you how to access your account's estimated Azure cloud usage through [Cloud Application Manager](https://www.ctl.io/cloud-application-manager) for month-to-date and end-of-month via API.
 
 ### Accessing the API
 
