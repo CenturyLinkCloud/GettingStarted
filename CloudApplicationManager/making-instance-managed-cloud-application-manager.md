@@ -54,4 +54,4 @@ When complete, the instance state will change to **Online**. You instance is now
 
 ![Cloud Application Manager Make Instance Managed 3](../images/cloud-application-manager-make-instance-managed-3.png)
 
-For more information on the capabilities of Managed Services, see this [video]().
+For more information on the capabilities of Managed Services, see this [video](./cloud-application-manager-deploying-a-new-managed-instance.md).

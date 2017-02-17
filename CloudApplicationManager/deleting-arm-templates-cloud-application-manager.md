@@ -48,4 +48,4 @@ If you try to ssh to the instance, you will no longer be able to access it becau
 
 ![Cloud Application Manager Using ARM Templates 3](../images/cloud-application-manager-delete-arm-template-3.png)
 
-See this [video](../cloudapplicationmanager/using-arm-templates-cloud-application-manager.md)for information on setting up and using ARM templates.
+See this [video](./using-arm-templates-cloud-application-manager.md)for information on setting up and using ARM templates.
