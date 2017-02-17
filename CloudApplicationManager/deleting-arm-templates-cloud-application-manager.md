@@ -1,5 +1,5 @@
 {{{
-  "title": "Deleting Existing ARM Templates for Microsoft Azure with Cloud Application Manager",
+  "title": "Deleting Existing ARM Templates for Microsoft Azure",
   "date": "02-20-2017",
   "author": "",
   "attachments": [],
@@ -16,7 +16,7 @@ This video will show you how to delete a template instance in an existing Azure 
 
 ### Introduction
 
-Cloud Application Manager is a scalable platform for deploying enterprise mission-critical applications across any cloud infrastructure &ndash; private, public or hosted. It provides interactive visualization to automate application provisioning, including configuration, deployment, scaling, updating and migration of applications in real-time. Cloud Application Manager manages both traditional and cloud-native applications provisioned on bare metal and virtual machines across any type of infrastructure.
+[Cloud Application Manager](https://www.ctl.io/cloud-application-manager/) is a scalable platform for deploying enterprise mission-critical applications across any cloud infrastructure &ndash; private, public or hosted. It provides interactive visualization to automate application provisioning, including configuration, deployment, scaling, updating and migration of applications in real-time. Cloud Application Manager manages both traditional and cloud-native applications provisioned on bare metal and virtual machines across any type of infrastructure.
 
 ### Log Into Cloud Application Manager
 
@@ -26,7 +26,7 @@ To get started with Cloud Application Manager, sign up for an account and regist
 
 ### Instances
 
-After you log-in into Cloud Application Manager, click the "Instances" tab on the top toolbar.
+After you log-in into Cloud Application Manager, click the **Instances** tab on the top toolbar.
 
 Select the instance you want to terminate.
 
@@ -34,11 +34,11 @@ Select the instance you want to terminate.
 
 ### Terminate Instance
 
-Click the "Bulk Options" tab and click "Force Terminate".
+Click the **Bulk Options** tab and click **Force Terminate**.
 
 ![Cloud Application Manager Using ARM Templates 2](../images/cloud-application-manager-delete-arm-template-2.png)
 
-You can see how Elasticbox seamlessly works to terminate the instance you created with an ARM template.
+You can see how Cloud Application Manager seamlessly works to terminate the instance you created with an ARM template.
 
 Once the termination process is complete, the activity page of the instance will be updated to reflect it's termination.
 
@@ -47,3 +47,5 @@ Once the termination process is complete, the activity page of the instance will
 If you try to ssh to the instance, you will no longer be able to access it because it was instantly deleted.
 
 ![Cloud Application Manager Using ARM Templates 3](../images/cloud-application-manager-delete-arm-template-3.png)
+
+See this [video](../cloudapplicationmanager/using-arm-templates-cloud-application-manager.md)for information on setting up and using ARM templates.
