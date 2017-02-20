@@ -1,11 +1,11 @@
 {{{
-  "title": "Error when Creating a Provider Outside Territory",
+  "title": "Error When Creating a Provider Outside Territory",
   "date": "02-20-2017",
   "author": "Ben Swoboda",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "Error when Creating a Provider in Cloud Application Manager Beyond the Authorized Account Territory",
+  "preview" : "Error When Creating a Provider in Cloud Application Manager Beyond the Authorized Account Territory",
   "thumbnail": "../images/cloud-application-manager-territory1.png",
   "contentIsHTML": false
 }}}
@@ -14,15 +14,15 @@
 
 ### Introduction
 
-CenturyLink Cloud is contractually obligated to limit resale of Azure from within Cloud Application Manager to specific countries. This tutorial demonstrates the alert message that will display if the CenturyLink Cloud billing address linked to an admin account is outside the territory permitted by Microsoft.
+CenturyLink Cloud is limited by contract with Microsoft to sell Azure only to specific countries. This tutorial demonstrates the alert message that will display if the CenturyLink Cloud billing address linked to an admin account is outside the territory permitted by Microsoft.
 
 ### Billing Address Must Match Territory
 
-The following error will appear if the CenturyLink Cloud billing address associated with the user and alias is outside the territory permitted by Microsoft.
+The following error will appear if the CenturyLink Cloud billing address associated with the user and account alias is outside the territory allowed by our contract with Microsoft.
 
 ![Cloud Application Manager Error: Outside of Territory](../images/cloud-application-manager-territory2.png)
 
-Here's how you can arrive at this error message. After you log into Cloud Application Manager, click the **Provider** tab on the top toolbar.
+Here's how you might arrive at this error message. After you log into [Cloud Application Manager](https://www.ctl.io/cloud-application-manager), click the **Provider** tab on the top toolbar.
 
 ![Cloud Application Manager Create New Provider](../images/cloud-application-manager-error3.png)
 
@@ -38,6 +38,10 @@ Click **Connect a CenturyLink Cloud Account** and enter your CLC account admin c
 
 ### The Exception Message
 
-If the CenturyLink Cloud billing address associated with the user and alias is outside the territory given to us by Microsoft, you will see an error message letting you know we are not permitted to offer the product to you. If you send us a ticket we can review your case for you.
+If the CenturyLink Cloud billing address associated with the user and alias is outside the territory given to us by Microsoft, you will see this error message letting you know we are not permitted to offer the product to you.
+
+"Thank you for your interest in Integrated Azure. Our apologies, but we are not able to provide that functionality for your account. Please submit a support request if you would like us to review your situation in further detail."
+
+If you send us a ticket we will review your case.
 
 ![Cloud Application Manager Error: Account Outside of Terrritory](../images/cloud-application-manager-territory2.png)

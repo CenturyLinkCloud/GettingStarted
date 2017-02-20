@@ -1,5 +1,5 @@
 {{{
-  "title": "Error when Alias is Not Billable",
+  "title": "Error When Alias is Not Billable",
   "date": "02-20-2017",
   "author": "Ben Swoboda",
   "attachments": [],
@@ -14,15 +14,19 @@
 
 ### Introduction
 
-CenturyLink Cloud does not currently sell Azure through Cloud Application Manager to resellers, internal accounts or demo accounts, or to sub-accounts of those categories.
+CenturyLink Cloud does not currently sell Azure through [Cloud Application Manager](https://www.ctl.io/cloud-application-manager) to the following types of accounts:
+* Resellers
+* Internal accounts
+* Demo accounts
+* Sub-accounts of those categories listed above
 
-### Non-Billable Aliases
+### Non-Billable Accounts
 
-The following error will appear if the CenturyLink Cloud alias you select is a reseller, internal, demo or sub-account, and is therefore designated "not billable."
+The following error will appear if the CenturyLink Cloud account alias you provide is a reseller, internal, demo or sub-account, and is therefore designated "not billable."
 
 ![Cloud Application Manager Error: Account Not Billable](../images/cloud-application-manager-billable2.png)
 
-Here's how you can arrive at this error message. After you log-in into Cloud Application Manager, click the **Provider** tab on the top toolbar.
+Here's how you might arrive at this error message. After you log into Cloud Application Manager, click the **Provider** tab on the top toolbar.
 
 ![Cloud Application Manager Create New Provider](../images/cloud-application-manager-error3.png)
 
@@ -38,6 +42,10 @@ Click **Connect a CenturyLink Cloud Account** and enter your CLC account admin c
 
 ### The Exception Message
 
-If the CenturyLink Cloud billing account is the wrong account type, an error message will appear letting you know we are not permitted to offer the product to you. If you send us a support request we can review your case for you.
+If the CenturyLink Cloud billing account is the wrong account type, the following error message will appear, indicating we're not permitted to offer the product to you.
+
+"Thank you for your interest in integrated Azure. Our apologies, but we are not able to provide this functionality for your account. Please submit a support request if you would like us to review your situation in further detail."
+
+If you send us a support request we will review your case.
 
 ![Cloud Application Manager Error: Account Not Billable](../images/cloud-application-manager-billable2.png)
