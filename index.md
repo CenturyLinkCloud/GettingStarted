@@ -1,6 +1,6 @@
 {{{
   "category_order": [
-    "CloudApplicationManager",
+    "Cloud Application Manager",
     "Servers",
     "Groups",
     "API",
