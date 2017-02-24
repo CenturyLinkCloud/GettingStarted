@@ -88,4 +88,4 @@ Then enter the password when prompted to ssh into the instance.
 
 ![Cloud Application Manager Using ARM Templates 6](../images/cloud-application-manager-using-arm-templates-6.png)
 
-See a video on how to delete existing ARM templates [here](./deleting-arm-templates-cloud-application-manager.md).
+See a video on how to delete existing ARM templates [here](https://www.ctl.io/knowledge-base/cloud-application-manager/deleting-arm-templates-cloud-application-manager/).
