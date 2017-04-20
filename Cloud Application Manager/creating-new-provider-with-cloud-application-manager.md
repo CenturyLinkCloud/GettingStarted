@@ -1,5 +1,5 @@
 {{{
-  "title": "Creating a New Provider",
+  "title": "Creating a New CSP Azure Provider",
   "date": "02-20-2017",
   "author": "",
   "attachments": [],

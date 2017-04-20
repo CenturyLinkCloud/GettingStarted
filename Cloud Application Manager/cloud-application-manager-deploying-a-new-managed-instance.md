@@ -1,11 +1,11 @@
 {{{
-  "title": "Deploying a New Managed Instance",
+  "title": "Deploying a New Managed AWS VPC Instance",
   "date": "02-20-2017",
   "author": "Thomas Broadwell",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "How to Deploy a New Managed Instance in Cloud Application Manager",
+  "preview" : "How to Deploy a New Managed AWS VPC Instance in Cloud Application Manager",
   "thumbnail": "../images/cloud-application-manager-deploy3.png",
   "contentIsHTML": false
 }}}
@@ -14,7 +14,7 @@
 
 ### Introduction
 
-This tutorial will show you how to deploy a new managed instance within an existing AWS VPC using [Cloud Application Manager](https://www.ctl.io/cloud-application-manager).
+This tutorial will show you how to deploy a new managed instance within an existing AWS VPC account using [Cloud Application Manager](https://www.ctl.io/cloud-application-manager).
 
 ### Modify the Deployment Policy
 
