@@ -1,5 +1,5 @@
 {{{
-  "title": "Requesting Estimates for Azure",
+  "title": "Requesting Estimates for CSP Azure",
   "date": "02-20-2017",
   "author": "Ben Swoboda",
   "attachments": [],
