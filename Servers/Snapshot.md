@@ -48,4 +48,3 @@ Snapshots allow a server to be quickly reverted back to a set point in time. Thi
 
 * [Creating and Managing Server Snapshots](http://www.centurylinkcloud.com/knowledge-base/servers/creating-and-managing-server-snapshots/)
 * [Group Snapshots](http://www.centurylinkcloud.com/knowledge-base/servers/group-snapshots/)
-* [Veeam Snapshot Commit & Disk Consolidation ](http://www.centurylinkcloud.com/knowledge-base/servers/veeam-snapshot-commit-and-disk-consolidation/)
