@@ -14,7 +14,7 @@
 
 ### Introduction
 
-CenturyLink Cloud users can easily run a script or install software on multiple servers at once by executing a package on any or all of the servers in a group. This is useful for performing tasks such as joining an entire set of servers to a domain, installing a new performance monitoring agent, or adding a software patch to a subset of machines.
+CenturyLink Public Cloud users can easily run a script or install software on multiple servers at once by executing a package on any or all of the servers in a group. This is useful for performing tasks such as joining an entire set of servers to a domain, installing a new performance monitoring agent, or adding a software patch to a subset of machines.
 
 Packages execute against servers whether they are running or not; for servers that are not running, the service puts the server into a running state, executes the package, then restores the server to its previous state.
 
@@ -28,7 +28,7 @@ Here are the steps to follow for executing a package on a group of servers using
 
 ### 2. Select a Package to Execute
 
-  Select a package to apply to the servers in this groupYou can view all available packages,  search by name, or filter based on visibility. (For advanced users looking to create their own custom packages, instructions can be found in the [CenturyLink Cloud Knowledge Base](//www.centurylinkcloud.com/knowledge-base/blueprints/blueprints-script-and-software-package-management/).)
+  Select a package to apply to the servers in this groupYou can view all available packages,  search by name, or filter based on visibility. (For advanced users looking to create their own custom packages, instructions can be found in the [CenturyLink Knowledge Base](//www.centurylinkcloud.com/knowledge-base/blueprints/blueprints-script-and-software-package-management/).)
 
   ![Select a package](../images/group-execute-package-2.png)
 

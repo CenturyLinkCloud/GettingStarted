@@ -42,4 +42,4 @@ Selecting the **create** button will apply the scheduled task to the server, and
 
 ![Scheduled task for a server](../images/servers-scheduled-task-4.png)
 
-Congratulations, you’ve just scheduled a task to automatically run on a server on the CenturyLink Cloud!
+Congratulations, you’ve just scheduled a task to automatically run on a server on the CenturyLink Platform!

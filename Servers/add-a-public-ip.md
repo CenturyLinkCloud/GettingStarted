@@ -24,7 +24,7 @@
 
   ![Add a public ip address to a server in the Control Portal](../images/servers-public-ip-2.png)
 
-  **Internal IP Address:** By default the internal IP address of the server will be selected. As the CenturyLink Cloud leverages a 1 to 1 NAT the public IP will be mapped to this private IP. Should you require more than 1 public IP on a server, the same process applies except when visiting the GUI the internal IP address field will show 'Add new IP address."  During the provisioning of the 2nd Public IP, as we use 1 to 1 NAT, a new private IP will also be bound to the server.
+  **Internal IP Address:** By default the internal IP address of the server will be selected. As the CenturyLink Public Cloud leverages a 1 to 1 NAT the public IP will be mapped to this private IP. Should you require more than 1 public IP on a server, the same process applies except when visiting the GUI the internal IP address field will show 'Add new IP address."  During the provisioning of the 2nd Public IP, as we use 1 to 1 NAT, a new private IP will also be bound to the server.
 
   ** Public Port(s):**  A fixed, defined list of frequently used TCP ports customers can simple select from to save time.
 
