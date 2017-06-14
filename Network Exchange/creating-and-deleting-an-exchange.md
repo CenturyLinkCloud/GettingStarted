@@ -12,11 +12,11 @@
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/216019694" frameborder="0" allowfullscreen></iframe>
 
-This video shows how to create and then delete a Colo to HAN exchange in the CenturyLink Cloud portal.
+This video shows how to create and then delete a Colo to HAN exchange in the CenturyLink Cloud control portal.
 
 ### Introduction
 
-Network Exchange provides a secure, high-speed, redundant, private network, with usage-based billing. It includes ease of setup and management of virtual circuits via the Control Portal, coupled with CenturyLink Cloud automation and pre-deployed network infrastructure.
+Network Exchange provides a secure, high-speed, redundant, private network, with usage-based billing. It includes ease of setup and management of virtual circuits via the Control Portal, coupled with CenturyLink Platform automation and pre-deployed network infrastructure.
 
 ### Log-in to the CenturyLink Cloud Portal
 

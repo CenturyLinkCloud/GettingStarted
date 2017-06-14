@@ -42,4 +42,4 @@ An example use case for *archive* would be if a business department has a report
 
   Once the unarchiving process is complete, the server will be restored to it's original state in the server group you selected.
 
-  Congratulations, you’ve successfully archived and unarchived a server on the CenturyLink Cloud!
+  Congratulations, you’ve successfully archived and unarchived a server on the CenturyLink Platform!

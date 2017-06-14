@@ -14,7 +14,7 @@
 
 ### Introduction
 
-CenturyLink Cloud provides an API for performing the same actions programmatically as you can from within the Control Portal. This API is RESTful, using JSON messages over HTTP and relying on the standard HTTP verbs including `GET`, `POST`, `PUT`, `DELETE`, and `PATCH`. The general URL format of the service is: `https://api.ctl.io/v2/{resource}/{account alias}`.
+CenturyLink Public Cloud provides an API for performing the same actions programmatically as you can from within the Control Portal. This API is RESTful, using JSON messages over HTTP and relying on the standard HTTP verbs including `GET`, `POST`, `PUT`, `DELETE`, and `PATCH`. The general URL format of the service is: `https://api.ctl.io/v2/{resource}/{account alias}`.
 
 The following demo uses raw HTTP requests to show an example of using the API to create a server. Of course, you may choose to use any programming language you like that supports handling HTTP requests and responses using JSON messages. For a full listing of all supported API methods, see our complete [API Documentation](//www.centurylinkcloud.com/api-docs/v2).
 

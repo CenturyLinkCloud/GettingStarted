@@ -14,7 +14,7 @@
 
 ### Introduction
 
-At the heart of CenturyLink Cloud, is the ability to create and manage virtual infrastructure. This guide will demonstrate how to provision a new cloud server in the CenturyLink Cloud.
+At the heart of the CenturyLink Platform is the ability to create and manage virtual infrastructure. This guide will demonstrate how to provision a new cloud server in the CenturyLink Cloud Control Portal.
 
 ### 1. Navigate to the Create Server Form
 
@@ -58,4 +58,4 @@ At the heart of CenturyLink Cloud, is the ability to create and manage virtual i
 
 ### 6. Queue The Server Build
 
-  Confirm your server settings, then select the **create server** button to queue the server build. Once the server is built, it will appear in the group that you selected it be placed. Congratulations, you’ve successfully built a new virtual server on the CenturyLink Cloud!
+  Confirm your server settings, then select the **create server** button to queue the server build. Once the server is built, it will appear in the group that you selected it be placed. Congratulations, you’ve successfully built a new virtual server on the CenturyLink Platform!

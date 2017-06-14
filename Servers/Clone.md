@@ -40,4 +40,4 @@ Confirm your cloned server settings, then select the **clone server** button to 
 
 ![queue the clone server build](../images/servers-clone-4.png)
 
-Congratulations, you’ve successfully cloned a server on the CenturyLink Cloud!
+Congratulations, you’ve successfully cloned a server on the CenturyLink Platform!
