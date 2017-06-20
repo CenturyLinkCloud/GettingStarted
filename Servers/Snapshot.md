@@ -44,7 +44,7 @@ Snapshots allow a server to be quickly reverted back to a set point in time. Thi
 
   Congratulations, you've just taken and restored a server snapshot!
 
-  For more information on snapshots, check out these articles in the [CenturyLink Cloud Knowledge Base](http://www.centurylinkcloud.com/knowledge-base/).
+  For more information on snapshots, check out these articles in the [CenturyLink Knowledge Base](http://www.centurylinkcloud.com/knowledge-base/).
 
 * [Creating and Managing Server Snapshots](http://www.centurylinkcloud.com/knowledge-base/servers/creating-and-managing-server-snapshots/)
 * [Group Snapshots](http://www.centurylinkcloud.com/knowledge-base/servers/group-snapshots/)
