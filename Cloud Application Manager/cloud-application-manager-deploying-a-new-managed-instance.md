@@ -1,11 +1,11 @@
 {{{
-  "title": "Deploying a New Managed AWS VPC Instance",
+  "title": "Deploying a New Managed Instance in AWS",
   "date": "02-20-2017",
   "author": "Thomas Broadwell",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "How to Deploy a New Managed AWS VPC Instance in Cloud Application Manager",
+  "preview" : "How to Deploy a New Managed Instance in AWS Using Cloud Application Manager",
   "thumbnail": "../images/cloud-application-manager-deploy3.png",
   "contentIsHTML": false
 }}}
