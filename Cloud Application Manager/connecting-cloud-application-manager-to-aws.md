@@ -30,7 +30,161 @@ Select **Create Policy**. Next to **Create Your Own Policy**, click **Select**.
 
 ![Cloud Application Manager AWS Create Policy Step 2](../images/cloud-application-manager-aws-iam-policy2.png)
 
-Give your policy a name, drop in your policy document and click **Validate Policy**. When the policy has been validated successfully, click **Create Policy**.
+Give your policy a name, drop in a policy document with this permissions:
+```
+{
+"Version": "2012-10-17",
+"Statement": [
+{
+    "Action": [
+        "autoscaling:CreateAutoScalingGroup",
+        "autoscaling:CreateLaunchConfiguration",
+        "autoscaling:DeleteAutoScalingGroup",
+        "autoscaling:DeleteLaunchConfiguration",
+        "autoscaling:DescribeScalingActivities",
+        "autoscaling:DescribeAutoScalingGroups",
+        "autoscaling:DescribeAutoScalingInstances",
+        "autoscaling:DescribeLaunchConfigurations",
+        "autoscaling:ResumeProcesses",
+        "autoscaling:SuspendProcesses",
+        "autoscaling:TerminateInstanceInAutoScalingGroup",
+        "autoscaling:UpdateAutoScalingGroup",
+        "cloudformation:CreateStack",
+        "cloudformation:DeleteStack",
+        "cloudformation:DescribeStackEvents",
+        "cloudformation:DescribeStackResource",
+        "cloudformation:DescribeStackResources",
+        "cloudformation:DescribeStacks",
+        "cloudformation:GetTemplate",
+        "cloudformation:ListStacks",
+        "cloudformation:ListStackResources",
+        "cloudformation:UpdateStack",
+        "cloudformation:ValidateTemplate",
+        "cloudwatch:DescribeAlarms",
+        "dynamodb:CreateTable",
+        "dynamodb:DeleteTable",
+        "dynamodb:DescribeTable",
+        "dynamodb:ListTables",
+        "ec2:AssociateAddress",
+        "ec2:AttachVolume",
+        "ec2:AllocateAddress",
+        "ec2:AuthorizeSecurityGroupEgress",
+        "ec2:AuthorizeSecurityGroupIngress",
+        "ec2:CopyImage",
+        "ec2:CreateImage",
+        "ec2:CreateSecurityGroup",
+        "ec2:CreateSnapshot",
+        "ec2:CreateSubnet",
+        "ec2:CreateTags",
+        "ec2:CreateVolume",
+        "ec2:DeleteSecurityGroup",
+        "ec2:DeleteSubnet",
+        "ec2:DeleteTags",
+        "ec2:DeleteVolume",
+        "ec2:DescribeAccountAttributes",
+        "ec2:DescribeAddresses",
+        "ec2:DescribeAvailabilityZones",
+        "ec2:DescribeImageAttribute",
+        "ec2:DescribeImages",
+        "ec2:DescribeInstanceAttribute",
+        "ec2:DescribeInstanceStatus",
+        "ec2:DescribeInstances",
+        "ec2:DescribeKeyPairs",
+        "ec2:DescribePlacementGroups",
+        "ec2:DescribeRegions",
+        "ec2:DescribeSecurityGroups",
+        "ec2:DescribeSubnets",
+        "ec2:DescribeTags",
+        "ec2:DescribeVolumeAttribute",
+        "ec2:DescribeVolumeStatus",
+        "ec2:DescribeVolumes",
+        "ec2:DescribeVpcAttribute",
+        "ec2:DescribeVpcs",
+        "ec2:DescribeVpnConnections",
+        "ec2:DetachVolume",
+        "ec2:RebootInstances",
+        "ec2:RegisterImage",
+        "ec2:ReleaseAddress",
+        "ec2:RevokeSecurityGroupEgress",
+        "ec2:RevokeSecurityGroupIngress",
+        "ec2:RunInstances",
+        "ec2:StartInstances",
+        "ec2:StopInstances",
+        "ec2:TerminateInstances",
+        "ecs:ListClusters",
+        "elasticache:*",
+        "elasticloadbalancing:CreateLoadBalancer",
+        "elasticloadbalancing:CreateLoadBalancerPolicy",
+        "elasticloadbalancing:DeleteLoadBalancer",
+        "elasticloadbalancing:DeleteLoadBalancerPolicy",
+        "elasticloadbalancing:DeregisterInstancesFromLoadBalancer",
+        "elasticloadbalancing:DescribeInstanceHealth",
+        "elasticloadbalancing:DescribeLoadBalancerPolicies",
+        "elasticloadbalancing:DescribeLoadBalancers",
+        "elasticloadbalancing:RegisterInstancesWithLoadBalancer",
+        "elasticloadbalancing:SetLoadBalancerPoliciesOfListener",
+        "elasticloadbalancing:ModifyLoadBalancerAttributes",
+        "elasticloadbalancing:ConfigureHealthCheck",
+        "iam:CreateUser",
+        "iam:DeleteUser",
+        "iam:ListAccessKeys",
+        "iam:ListUserPolicies",
+        "iam:ListServerCertificates",
+        "iam:PutUserPolicy",
+        "iam:GetUser",
+        "iam:CreateAccessKey",
+        "iam:DeleteUserPolicy",
+        "iam:DeleteAccessKey",
+        "iam:PassRole",
+        "iam:ListRoles",
+        "iam:ListInstanceProfilesForRole",
+        "rds:AuthorizeDBSecurityGroupIngress",
+        "rds:AddTagsToResource",
+        "rds:CreateDBInstance",
+        "rds:CreateDBSecurityGroup",
+        "rds:CreateDBSnapshot",
+        "rds:DeleteDBInstance",
+        "rds:DeleteDBSecurityGroup",
+        "rds:DeleteDBSnapshot",
+        "rds:DescribeDBInstances",
+        "rds:DescribeDBParameterGroups",
+        "rds:DescribeDBParameters",
+        "rds:DescribeDBSecurityGroups",
+        "rds:DescribeDBSnapshots",
+        "rds:DescribeDBEngineVersions",
+        "rds:DescribeDBSubnetGroups",
+        "rds:DescribeOptionGroups",
+        "rds:ModifyDBInstance",
+        "rds:ModifyDBSubnetGroup",
+        "rds:RebootDBInstance",
+        "rds:RemoveTagsFromResource",
+        "rds:RestoreDBInstanceFromDBSnapshot",
+        "rds:RevokeDBSecurityGroupIngress",
+        "s3:CreateBucket",
+        "s3:DeleteBucket",
+        "s3:DeleteBucketPolicy",
+        "s3:GetBucketAcl",
+        "s3:GetBucketCORS",
+        "s3:GetBucketLocation",
+        "s3:ListAllMyBuckets",
+        "s3:ListBucket",
+        "s3:PutBucketAcl",
+        "s3:PutBucketCORS",
+        "s3:PutBucketPolicy",
+        "s3:PutBucketTagging",
+        "sts:AssumeRole",
+        "support:*"
+    ],
+    "Sid": "Stmt1378777340000",
+    "Resource": [
+        "*"
+    ],
+    "Effect": "Allow"
+}
+]
+}
+```
+ and click **Validate Policy**. When the policy has been validated successfully, click **Create Policy**.
 
 ![Cloud Application Manager AWS Create Policy Step 3](../images/cloud-application-manager-aws-iam-policy3.png)
 
@@ -51,7 +205,10 @@ From your **Services** Dashboard in AWS, select **Roles**.
 
 ![Cloud Application Manager AWS Role Type](../images/cloud-application-manager-aws-iam-role3.png)
 
-In **Establish Trust**, enter your **Account ID** and an **External ID**.
+In **Establish Trust**, enter these values:
+  * Account ID: **540339316802**
+  * External ID: **elasticbox**
+  * Require MFA: **Leave unselected**
 
 ![Cloud Application Manager AWS Role Trust](../images/cloud-application-manager-aws-iam-role4.png)
 
