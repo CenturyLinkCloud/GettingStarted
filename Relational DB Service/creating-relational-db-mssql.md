@@ -5,7 +5,7 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "How to create an MSSQL Server Relational Database",
+  "preview" : "Creating an MSSQL Server Relational Database",
   "thumbnail": "../images/mssql-server-relational-db-preview.png",
   "contentIsHTML": false
 }}}
