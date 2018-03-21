@@ -1,6 +1,6 @@
 {{{
   "title": "Creating an MSSQL Server Relational Database",
-  "date": "03-20-2018",
+  "date": "03-22-2018",
   "author": "",
   "attachments": [],
   "related_products": [],
@@ -10,7 +10,7 @@
   "contentIsHTML": false
 }}}
 
-This series of videos shows how to quickly create a Microsoft SQL Server Relational Database.
+This video series shows how to quickly create a Microsoft SQL Server Relational Database.
 
 ### Introduction
 
@@ -20,7 +20,9 @@ The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated dat
 
 [![Creating a Relational DB](../images/mssql-db-part1.jpg)](https://vimeo.com/255618938 "Part 1")
 
-There are two ways to create a relational database from the DBaaS dashboard. You can click *Create* in the left-hand menu, then select *Relational DB*, or you can select *Services* and then *Relational DB*. This method will take you to a list of your existing databases, where you can create a new one by clicking on the green button at the top of the page.### Configuring Your DB
+There are two ways to create a relational database from the DBaaS dashboard. You can click *Create* in the left-hand menu, then select *Relational DB*, or you can select *Services* and then *Relational DB*. This method will take you to a list of your existing databases, where you can create a new one by clicking on the green button at the top of the page.
+
+### Configuring Your DB
 
 [![Configuring Your DB](../images/mssql-db-part2.jpg)](https://vimeo.com/255619790 "Part 2")
 
