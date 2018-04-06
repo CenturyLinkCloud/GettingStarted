@@ -18,7 +18,7 @@ The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated dat
 
 ### Creating a Relational DB
 
-<iframe width="560" height="315" src="https://player.vimeo.com/video/255618938" frameborder="0" allowfullscreen></iframe>\
+<iframe width="560" height="315" src="https://player.vimeo.com/video/255618938" frameborder="0" allowfullscreen></iframe>
 
 There are two ways to create a relational database from the DBaaS dashboard. You can click *Create* in the left-hand menu, then select *Relational DB*, or you can select *Services* and then *Relational DB*. This method will take you to a list of your existing databases, where you can create a new one by clicking on the green button at the top of the page.
 
