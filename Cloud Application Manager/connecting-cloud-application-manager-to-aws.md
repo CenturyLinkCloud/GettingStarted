@@ -172,6 +172,7 @@ Give your policy a name, drop in a policy document with this permissions:
         "s3:PutBucketCORS",
         "s3:PutBucketPolicy",
         "s3:PutBucketTagging",
+        "ce:*",
         "sts:AssumeRole",
         "support:*"
     ],
