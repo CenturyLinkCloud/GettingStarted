@@ -1,6 +1,6 @@
 {{{
   "title": "Creating and Deleting an Exchange",
-  "date": "07-09-2017",
+  "date": "07-09-2018",
   "author": "Jason Holland",
   "attachments": [],
   "related_products": [],
@@ -10,7 +10,7 @@
   "contentIsHTML": false
 }}}
 
-<iframe width="560" height="315" src="https://player.vimeo.com/video/216019694" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://centurylink.sharepoint.com/:v:/s/ctlioprod/EZss1uqHqjtKjkASEfhwGCEBp9rhc2-2bDdE5TSzDJtamg?e=u5Vi6g" frameborder="0"></iframe>
 
 This video shows how to create an Exchange with CenturyLink Cloud (CLC) and Colocation  Endpoints.
 
