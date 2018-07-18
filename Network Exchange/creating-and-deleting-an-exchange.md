@@ -10,7 +10,7 @@
   "contentIsHTML": false
 }}}
 
-<iframe width="560" height="315" src="https://centurylink.sharepoint.com/:v:/s/ctlioprod/EZss1uqHqjtKjkASEfhwGCEBp9rhc2-2bDdE5TSzDJtamg?e=u5Vi6g" frameborder="0"></iframe>
+<iframe width="640" height="360" src="https://player.vimeo.com/video/280611150" frameborder="0" allowfullscreen></iframe>
 
 This video shows how to create an Exchange with CenturyLink Cloud (CLC) and Colocation  Endpoints.
 
@@ -63,4 +63,3 @@ Once active, you can view each endpoint by expanding the information under the e
 To view the Colocation Endpoint connection instructions, expand the new Exchange and then expand the Colocation Endpoint.
 
 ![View Instructions](../images/network-exchange-colo-instructions.png)
-
