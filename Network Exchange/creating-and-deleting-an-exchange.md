@@ -10,7 +10,7 @@
   "contentIsHTML": false
 }}}
 
-<iframe width="640" height="360" src="https://player.vimeo.com/video/280611150" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/280617351" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 This video shows how to create an Exchange with CenturyLink Cloud (CLC) and Colocation  Endpoints.
 
