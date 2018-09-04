@@ -18,11 +18,11 @@ During the lifespan of your server you may be faced with conditions that require
 
 ### Edit Existing Storage
 
-Once you've navigated to the server who's storage allocation you wish to edit, select the **edit storage** button.
+Once you've navigated to the server whose storage allocation you wish to edit, select the **edit storage** button.
 
 ![Edit storage button](../images/servers-edit-disk-1.png)
 
-For the disk you wish to edit, use the textbox or slider provided to adjust the disks or partitions storage to the correct value. Once you’ve confirmed the value, click the apply button to implement your change. The estimated price per month of the server, as well as the per hour price difference is displayed to show how the change may effect the cost of the server.
+For the disk you want to increase (shrinking a disk is not supported), use the text box or slider provided to adjust the disk or partition's storage to the correct value. Once you’ve confirmed the value, click the apply button to implement your change. The estimated price per month of the server, as well as the per hour price difference, will be displayed to show how the change may effect the cost of the server.
 
 ![Edit storage button](../images/servers-edit-disk-2.png)
 
