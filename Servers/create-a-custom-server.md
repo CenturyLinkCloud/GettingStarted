@@ -26,11 +26,11 @@ At the heart of the CenturyLink Platform is the ability to create and manage vir
 
   From top to bottom, the Create Server form will walk you through the required steps to successfully provision a new server in the CenturyLink Cloud Control Portal.
 
-  Choose a **data center** location for your server that's appropriate for your application. Depending on the chosen data center location, additional services &mdash; [Managed Services](http://www.centurylinkcloud.com/managed-services/) and [Hyperscale Server](http://www.centurylinkcloud.com/hyperscale) for example &mdash; will be enabled/disabled based on whether it's available in the selected data center. Then select the **group** to place that server in (the server can be moved to a different group later).
+  Choose a **data center** location for your server that's appropriate for your application. Depending on the chosen data center location, additional services &mdash; [Managed Services](http://www.centurylinkcloud.com/managed-services/), for example &mdash; will be enabled/disabled based on whether it's available in the selected data center. Then select the **group** to place that server in (the server can be moved to a different group later).
 
   ![Server Create](../images/servers-create-2.png)
 
-  Select the server type ([Standard](http://www.centurylinkcloud.com/servers) or [Hyperscale](http://www.centurylinkcloud.com/hyperscale)), operating system template and enter a name for the server. If you have created custom templates in your account, they will be available in the operating system dropdown list as well. Note that the price per hour changes based on the selected operating system licensing cost.
+  Select the ([Standard](http://www.centurylinkcloud.com/servers) server, operating system template and enter a name for the server. If you have created custom templates in your account, they will be available in the operating system dropdown list as well. Note that the price per hour changes based on the selected operating system licensing cost.
 
 ### 3. Server Resources
 
@@ -44,7 +44,7 @@ At the heart of the CenturyLink Platform is the ability to create and manage vir
 
   Select a CPU Autoscale Policy making it possible to scale servers up and down based on utilization ensuring optimal deployment of resources for cloud environments under a variety of conditions.
 
-  For standard server types, select an appropriate backup level for your new virtual machine. With Hyperscale servers, there is no built in storage redundancy or snapshot capability. You are responsible for any storage backups for Hyperscale servers.
+  For standard server types, select an appropriate backup level for your new virtual machine.
 
 ### 4. Network
 
