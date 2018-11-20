@@ -5,7 +5,6 @@
     "Relational DB Service",
     "Servers",
     "Groups",
-    "API",
-    "AppFog"
+    "API"
   ]
 }}}
