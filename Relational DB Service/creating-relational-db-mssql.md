@@ -22,20 +22,16 @@ The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated dat
 
 There are two ways to create a relational database from the DBaaS dashboard. You can click *Create* in the left-hand menu, then select *Relational DB*, or you can select *Services* and then *Relational DB*. This method will take you to a list of your existing databases, where you can create a new one by clicking on the green button at the top of the page.
 
-### Configuring Your DB
+On the *Create Database* page, there are multiple sections. The Cost Estimator and the Bill Time estimator also show you the amount of CPU, Memory and Storage you have allocated. Other sections show Resources and Options.
 
-<iframe width="560" height="315" src="https://player.vimeo.com/video/255619790" frameborder="0" allowfullscreen></iframe>
+To create a database, go to the top dropdown and choose MSSQL, then select the version and edition.
 
-After the database is built and the replication is running, you can review information about your database and the hosts involved in your replication. You can also download your SSL certificate, configure your backups, and view your logs and metrics.
+Next, choose a CenturyLink data center location, then a network from your local network, and a unique identifier.
 
-### Logging In
+Finally, create and confirm a password for your database. Make sure it is stored safely.
 
-<iframe width="560" height="315" src="https://player.vimeo.com/video/255620675" frameborder="0" allowfullscreen></iframe>
+The default settings in the Resources section are the minimums required for acceptable performance. You can set the figures in the CPU, Memory and Storage dropdowns higher to meet your requirements. Note that this will automatically increase the figures in the cost estimator.
 
-Logging into your MSSQL Relational Database and running a stress test.
+In the Options section, you can set Replication to create a replica of the primary database, and choose its location and network. You can also enable Notifications, customize the backup schedule, and select the number of days backups will be kept. Some of these options will also incur additional costs that will be reflected in the Estimator.
 
-### Failover
-
-<iframe width="560" height="315" src="https://player.vimeo.com/video/255622847" frameborder="0" allowfullscreen></iframe>
-
-Demonstrating the failover capabilities of your MSSQL Relational Database.
+The final step is to select the *Create Database* button at the bottom of the page to complete the process. This sends you to a Details page where you can review your selections. 
