@@ -1,12 +1,12 @@
 {{{
   "title": "Failover for an MSSQL Server Relational Database",
-  "date": "03-15-2018",
+  "date": "03-18-2018",
   "author": "",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
   "preview" : "Failover for an MSSQL Server Relational Database",
-  "thumbnail": "../images/mssql-server-relational-db-preview.png",
+  "thumbnail": "../images/failover-relational-db-preview.png",
   "contentIsHTML": false
 }}}
 

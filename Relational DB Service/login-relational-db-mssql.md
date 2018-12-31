@@ -1,12 +1,12 @@
 {{{
   "title": "Logging Into an MSSQL Server Relational Database",
-  "date": "03-15-2018",
+  "date": "03-17-2018",
   "author": "",
   "attachments": [],
   "related_products": [],
   "related_questions": [],
   "preview" : "How to log into an MSSQL Server Relational Database",
-  "thumbnail": "../images/mssql-server-relational-db-preview.png",
+  "thumbnail": "../images/login-relational-db-preview.png",
   "contentIsHTML": false
 }}}
 
