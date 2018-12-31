@@ -20,4 +20,14 @@ The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated dat
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/255619790" frameborder="0" allowfullscreen></iframe>
 
-After the database is built and the replication is running, you can review information about your database and the hosts involved in your replication. You can also download your SSL certificate, configure your backups, and view your logs and metrics.
+After the database is built and the replication is running, you can review information about your database and the hosts involved in your replication.
+
+You can also download your SSL certificate, configure your backups, and view your logs and metrics.
+
+Under the Hosts section, the green background denotes the active database that you are connected to. The host name and IP address are included here for clarification, but the connection will always be made through the Connection string in the Info section above.
+
+That connection string goes to a DNS server and allows it to switch seamlessly on failovers.
+
+Logs stream in near real-time. There are two dropdowns that allow you to view logs from either the primary or replicant database.
+
+You can also select the Metrics tab here to view data for Memory, CPU and Storage over 1-hour, 1-day and 31-day periods.
