@@ -1,5 +1,5 @@
 {{{
-  "title": "Configuring an MSSQL Server Relational Database",
+  "title": "2: Configuring an MSSQL Server Relational Database",
   "date": "03-16-2018",
   "author": "",
   "attachments": [],
