@@ -5,12 +5,12 @@
   "attachments": [],
   "related_products": [],
   "related_questions": [],
-  "preview" : "How to log into an MSSQL Server Relational Database",
+  "preview" : "Logging into an MSSQL Server Relational Database",
   "thumbnail": "../images/login-relational-db-preview.png",
   "contentIsHTML": false
 }}}
 
-This video series shows how to quickly create a Microsoft SQL Server Relational Database.
+This video series shows how to quickly create and configure a Microsoft SQL Server Relational Database. In Part 3, we will demonstrate logging in and running a stress test.
 
 ### Introduction
 
@@ -20,4 +20,16 @@ The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated dat
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/255620675" frameborder="0" allowfullscreen></iframe>
 
-Logging into your MSSQL Relational Database and running a stress test.
+Open your VPN connection to log into your MSSQL Server management studio.
+
+If they're not preloaded, enter your Server Type, Server Name, Authentication, Login and Password in the appropriate dropdowns.
+
+### Running a Stress Test
+
+Create a table in the management studio to run a stress test.
+
+Check to make sure you are on the active server.
+
+Add rows and select *Execute*.
+
+CPU and Memory will spike during the test. Storage remains the same in our test because it has been allocated to previous tests.

@@ -10,13 +10,13 @@
   "contentIsHTML": false
 }}}
 
-This video series shows how to quickly create a Microsoft SQL Server Relational Database.
+This video series shows how to quickly create a Microsoft SQL Server Relational Database. In Part 2, we will demonstrate configuring a database and reviewing logs.
 
 ### Introduction
 
 The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated data management and analysis software application that enables the reliable management of mission-critical information. With a Relational DB, you can create, modify, and delete tables, as well as select, insert, and delete data from existing tables.
 
-### Configuring Your DB
+### Configuring Your Database
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/255619790" frameborder="0" allowfullscreen></iframe>
 

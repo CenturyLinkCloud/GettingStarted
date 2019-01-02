@@ -10,7 +10,7 @@
   "contentIsHTML": false
 }}}
 
-This video series shows how to quickly create a Microsoft SQL Server Relational Database.
+This video series shows how to quickly create a Microsoft SQL Server Relational Database. In Part 1, we will demonstrate how to create a new database.
 
 ### Introduction
 
@@ -34,4 +34,4 @@ The default settings in the Resources section are the minimums required for acce
 
 In the Options section, you can set Replication to create a replica of the primary database, and choose its location and network. You can also enable Notifications, customize the backup schedule, and select the number of days backups will be kept. Some of these options will also incur additional costs that will be reflected in the Estimator.
 
-The final step is to select the *Create Database* button at the bottom of the page to complete the process. This sends you to a Details page where you can review your selections. 
+The final step is to select the *Create Database* button at the bottom of the page to complete the process. This sends you to a Details page where you can review your selections.
