@@ -22,8 +22,18 @@ The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated dat
 
 View the failover capabilities of your MSSQL Relational Database, by choosing *Failover* at the top of the management studio. You may see a warning about a potential data loss — this is a general warning so unsaved transactions aren't lost when you perform a failover.
 
-As long as your servers are up under *Health* in the Hosts section and *Replication Health* in the Info section, all transacations should be synched.
+![RDBS Failover](../images/rdbs/failover1.png)
 
-When Failover begins, the *Status* in the Info section will change to Failing Over. At this point, your DNS record will change from one to the other. Storage will also change to the active replicant server from the previously active primary server.
+As long as your servers are up under *Health* in the Hosts section and *Replication Health* in the Info section, all transactions should be synched.
 
-Reverse the steps to fail back to the original server, execute the query to view the database that's up, and the test is complete.
+![RDBS Failover](../images/rdbs/failover2.png)
+
+When Failover begins, the *Status* in the Info section will change to Failing Over. At this point, your DNS record will change from one to the other.
+
+![RDBS Failover](../images/rdbs/failover3.png)
+
+Storage will also change to the active replicant server from the previously active primary server.
+
+![RDBS Failover](../images/rdbs/failover4.png)
+
+Repeat the steps to fail back to the original server, execute the query to view the database that's up, and the test is complete.
