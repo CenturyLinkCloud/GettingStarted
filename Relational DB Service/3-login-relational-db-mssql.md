@@ -22,14 +22,24 @@ The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated dat
 
 Open your VPN connection to log into your MSSQL Server management studio.
 
+![RDBS Logging](../images/rdbs/logging.png)
+
 If they're not preloaded, enter your Server Type, Server Name, Authentication, Login and Password in the appropriate dropdowns.
 
 ### Running a Stress Test
 
+![RDBS Stress](../images/rdbs/stress1.png)
+
 Create a table in the management studio to run a stress test.
+
+![RDBS Stress](../images/rdbs/stress2.png)
 
 Check to make sure you are on the active server.
 
+![RDBS Stress](../images/rdbs/stress3.png)
+
 Add rows and select *Execute*.
+
+![RDBS Stress](../images/rdbs/stress4.png)
 
 CPU and Memory will spike during the test. Storage remains the same in our test because it has been allocated to previous tests.

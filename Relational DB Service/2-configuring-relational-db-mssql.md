@@ -22,12 +22,22 @@ The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated dat
 
 After the database is built and the replication is running, you can review information about your database and the hosts involved in your replication.
 
+![RDBS Configure Database](../images/rdbs/configure1.png)
+
 You can also download your SSL certificate, configure your backups, and view your logs and metrics.
+
+![RDBS Configure Database](../images/rdbs/configure2.png)
 
 Under the Hosts section, the green background denotes the active database that you are connected to. The host name and IP address are included here for clarification, but the connection will always be made through the Connection string in the Info section above.
 
+![RDBS Configure Database](../images/rdbs/configure3.png)
+
 That connection string goes to a DNS server and allows it to switch seamlessly on failovers.
 
+![RDBS Configure Database](../images/rdbs/configure4.png)
+
 Logs stream in near real-time. There are two dropdowns that allow you to view logs from either the primary or replicant database.
+
+![RDBS Configure Database](../images/rdbs/configure5.png)
 
 You can also select the Metrics tab here to view data for Memory, CPU and Storage over 1-hour, 1-day and 31-day periods.
