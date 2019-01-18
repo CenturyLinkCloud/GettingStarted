@@ -53,4 +53,4 @@ In the Options section, you can set Replication to create a replica of the prima
 
 The final step is to select the *Create Database* button at the bottom of the page to complete the process. This sends you to a Details page where you can review your selections.
 
-**Part 2:** [Configuring an MSSQL Server Relational Database](/guides/relational-db-service/2-configuring-relational-db-mssql/)
+**Part 2:** [Configuring an MSSQL Server Relational Database](/../Relational DB Service/2-configuring-relational-db-mssql.md)
