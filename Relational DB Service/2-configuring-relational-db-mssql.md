@@ -1,6 +1,6 @@
 {{{
-  "title": "2: Configuring an MSSQL Server Relational Database",
-  "date": "03-16-2018",
+  "title": "Configuring an MSSQL Server Relational Database",
+  "date": "01-22-2019",
   "author": "",
   "attachments": [],
   "related_products": [],
@@ -10,6 +10,9 @@
   "contentIsHTML": false
 }}}
 
+<iframe width="560" height="315" src="https://player.vimeo.com/video/255619790" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>
 This video series shows how to quickly create a Microsoft SQL Server Relational Database. In Part 2, we will demonstrate configuring a database and reviewing logs.
 
 ### Introduction
@@ -17,8 +20,6 @@ This video series shows how to quickly create a Microsoft SQL Server Relational 
 The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated data management and analysis software application that enables the reliable management of mission-critical information. With a Relational DB, you can create, modify, and delete tables, as well as select, insert, and delete data from existing tables.
 
 ### Configuring Your Database
-
-<iframe width="560" height="315" src="https://player.vimeo.com/video/255619790" frameborder="0" allowfullscreen></iframe>
 
 After the database is built and the replication is running, you can review information about your database and the hosts involved in your replication.
 
@@ -41,3 +42,5 @@ Logs stream in near real-time. There are two dropdowns that allow you to view lo
 ![RDBS Configure Database](../images/rdbs/configure5.png)
 
 You can also select the Metrics tab here to view data for Memory, CPU and Storage over 1-hour, 1-day and 31-day periods.
+
+**Part 3:** [Logging Into an MSSQL Server Relational Database](/guides/relational-db-service/3-login-relational-db-mssql/)

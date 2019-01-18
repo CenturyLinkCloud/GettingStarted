@@ -1,6 +1,6 @@
 {{{
-  "title": "1: Creating an MSSQL Server Relational Database",
-  "date": "03-15-2018",
+  "title": "Creating an MSSQL Server Relational Database",
+  "date": "01-22-2019",
   "author": "",
   "attachments": [],
   "related_products": [],
@@ -10,6 +10,9 @@
   "contentIsHTML": false
 }}}
 
+<iframe width="560" height="315" src="https://player.vimeo.com/video/255618938" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>
 This video series shows how to quickly create a Microsoft SQL Server Relational Database. In Part 1, we will demonstrate how to create a new database.
 
 ### Introduction
@@ -17,8 +20,6 @@ This video series shows how to quickly create a Microsoft SQL Server Relational 
 The Microsoft SQL Server (MS-SQL) database is a comprehensive and integrated data management and analysis software application that enables the reliable management of mission-critical information. With a Relational DB, you can create, modify, and delete tables, as well as select, insert, and delete data from existing tables.
 
 ### Creating a Relational DB
-
-<iframe width="560" height="315" src="https://player.vimeo.com/video/255618938" frameborder="0" allowfullscreen></iframe>
 
 ![RDBS Create Database](../images/rdbs/create1.png)
 
@@ -51,3 +52,5 @@ In the Options section, you can set Replication to create a replica of the prima
 ![RDBS Create Database](../images/rdbs/create8.png)
 
 The final step is to select the *Create Database* button at the bottom of the page to complete the process. This sends you to a Details page where you can review your selections.
+
+**Part 2:** [Configuring an MSSQL Server Relational Database](/guides/relational-db-service/2-configuring-relational-db-mssql/)
