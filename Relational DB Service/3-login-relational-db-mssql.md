@@ -45,4 +45,4 @@ Add rows and select *Execute*.
 
 CPU and Memory will spike during the test. Storage remains the same in our test because it has been allocated to previous tests.
 
-**Part 4:** [Failover for an MSSQL Server Relational Database](/../Relational DB Service/4-failover-for-relational-db-mssql.md)
+**Part 4:** [Failover for an MSSQL Server Relational Database](../Relational DB Service/4-failover-for-relational-db-mssql.md)

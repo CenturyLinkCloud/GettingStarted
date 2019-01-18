@@ -43,4 +43,4 @@ Logs stream in near real-time. There are two dropdowns that allow you to view lo
 
 You can also select the Metrics tab here to view data for Memory, CPU and Storage over 1-hour, 1-day and 31-day periods.
 
-**Part 3:** [Logging Into an MSSQL Server Relational Database](/../Relational DB Service/3-login-relational-db-mssql.md)
+**Part 3:** [Logging Into an MSSQL Server Relational Database](../Relational DB Service/3-login-relational-db-mssql.md)
