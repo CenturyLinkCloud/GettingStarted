@@ -15,6 +15,7 @@
 <br>
 <br>
 </div>
+
 This video series shows how to quickly create a Microsoft SQL Server Relational Database. In Part 4, we will demonstrate failover capabilities.
 
 ### Introduction

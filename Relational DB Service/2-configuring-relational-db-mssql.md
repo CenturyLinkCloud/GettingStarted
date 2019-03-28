@@ -15,6 +15,7 @@
 <br>
 <br>
 </div>
+
 This video series shows how to quickly create a Microsoft SQL Server Relational Database. In Part 2, we will demonstrate configuring a database and reviewing logs.
 
 ### Introduction

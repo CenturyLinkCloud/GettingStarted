@@ -13,6 +13,7 @@
 <div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/121204949" frameborder="0" allowfullscreen></iframe>
 </div>
+
 ### Introduction
 
 Follow along this short how-to on installing the Cloud Application Manager virtual appliance in OpenStack.

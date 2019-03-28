@@ -13,6 +13,7 @@
 <div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/204245303" frameborder="0" allowfullscreen></iframe>
 </div>
+
 ### Introduction
 
 This tutorial will show you how to access your account's estimated Azure cloud usage through [Cloud Application Manager](https://www.ctl.io/cloud-application-manager) for month-to-date and end-of-month via API.

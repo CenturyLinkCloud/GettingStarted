@@ -15,6 +15,7 @@
 
 This video will show you how you can use an ARM template to manipulate resources within an existing Microsoft Azure Customer. This can be done for any Azure account. We will create a deployment policy box, apply it to a template box, add a pre-existing ARM template to an Ubuntu template box, deploy the instance, and then ssh into the instance (to show that the instance exists).
 </div>
+
 ### Introduction
 
 [Cloud Application Manager](https://www.ctl.io/cloud-application-manager/) is a scalable platform for deploying enterprise mission-critical applications across any cloud infrastructure &ndash; private, public or hosted. It provides interactive visualization to automate application provisioning, including configuration, deployment, scaling, updating and migration of applications in real-time. Cloud Application Manager manages both traditional and cloud-native applications provisioned on bare metal and virtual machines across any type of infrastructure.

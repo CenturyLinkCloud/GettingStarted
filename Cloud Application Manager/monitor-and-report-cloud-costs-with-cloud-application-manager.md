@@ -13,6 +13,7 @@
 <div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/111544299" frameborder="0" allowfullscreen></iframe>
 </div>
+
 ### Introduction
 
 Do you juggle massive bills from deploying to multiple clouds? Are your teams building applications without management and financial visibility? How do you control costs and encourage innovation at the same time? With Cloud Application Manager, you can enable cloud reporting for your enterprise to optimize cloud costs and avoid VM sprawl. Catch trends, set custom pricing, and assign chargebacks for cost center budgets. Here’s a quick look at how it works.
