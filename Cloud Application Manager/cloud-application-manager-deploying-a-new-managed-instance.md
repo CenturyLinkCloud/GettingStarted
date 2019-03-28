@@ -10,8 +10,9 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/204249861" frameborder="0" allowfullscreen></iframe>
-
+</div>
 ### Introduction
 
 This tutorial will show you how to deploy a new managed instance within an existing AWS VPC account using [Cloud Application Manager](https://www.ctl.io/cloud-application-manager).

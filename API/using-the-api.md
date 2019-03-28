@@ -10,8 +10,9 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2M4kMHHLm5Y" frameborder="0" allowfullscreen></iframe>
-
+</div>
 ### Introduction
 
 CenturyLink Public Cloud provides an API for performing the same actions programmatically as you can from within the Control Portal. This API is RESTful, using JSON messages over HTTP and relying on the standard HTTP verbs including `GET`, `POST`, `PUT`, `DELETE`, and `PATCH`. The general URL format of the service is: `https://api.ctl.io/v2/{resource}/{account alias}`.

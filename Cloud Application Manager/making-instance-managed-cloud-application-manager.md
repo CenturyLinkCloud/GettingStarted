@@ -10,10 +10,11 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/204246280" frameborder="0" allowfullscreen></iframe>
 
 This video shows users how to make a Cloud Application Manager registered VM instance managed (assigning the instance to be managed by Cloud Application Manager Managed Services).
-
+</div>
 ### Introduction
 
 [Cloud Application Manager](https://www.ctl.io/cloud-application-manager) is a scalable platform for deploying enterprise mission-critical applications across any cloud infrastructure &ndash; private, public or hosted. It provides interactive visualization to automate application provisioning, including configuration, deployment, scaling, updating and migration of applications in real-time. Cloud Application Manager manages both traditional and cloud-native applications provisioned on bare metal and virtual machines across any type of infrastructure.

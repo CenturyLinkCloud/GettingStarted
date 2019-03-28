@@ -10,8 +10,9 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/126177639" frameborder="0" allowfullscreen></iframe>
-
+</div>
 ### Introduction
 
 You need to connect your cloud account before you can deploy workloads from Cloud Application Manager. Here's a quick step-by-step demo of how to connect to an AWS account.

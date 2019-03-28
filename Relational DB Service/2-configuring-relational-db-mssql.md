@@ -10,9 +10,11 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/255619790" frameborder="0" allowfullscreen></iframe>
 <br>
 <br>
+</div>
 This video series shows how to quickly create a Microsoft SQL Server Relational Database. In Part 2, we will demonstrate configuring a database and reviewing logs.
 
 ### Introduction
