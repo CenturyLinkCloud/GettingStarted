@@ -10,10 +10,11 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe src="https://player.vimeo.com/video/280617351" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 This video shows how to create an Exchange with CenturyLink Cloud (CLC) and Colocation  Endpoints.
-
+</div>
 ### Introduction
 
 Network Exchange provides secure, high-speed, redundant, automated network connections between disparate IT environments allowing for a true hybrid environment. The Network Exchange portal allows for self-managed connections, including the creation, modification and deletion, via the portal, combined with automation via Software Defined Networking.

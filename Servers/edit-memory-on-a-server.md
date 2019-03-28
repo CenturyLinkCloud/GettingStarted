@@ -10,8 +10,9 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5mfT9ejQmqw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
+</div>
 ### Introduction
 
 Whether you’re taking a development server into production, or facing a seasonal-related traffic spike, you may need to adjust the memory or memory resources allocated to your server. Here's how to do it through the Control Portal.

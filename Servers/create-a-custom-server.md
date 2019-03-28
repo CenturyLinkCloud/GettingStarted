@@ -10,8 +10,9 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-0ZZXo6SQWU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
+</div>
 ### Introduction
 
 At the heart of the CenturyLink Platform is the ability to create and manage virtual infrastructure. This guide will demonstrate how to provision a new cloud server in the CenturyLink Cloud Control Portal.
