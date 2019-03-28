@@ -13,6 +13,7 @@
 <div class="no-pdf">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/We87qlVIgQw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
 ### Introduction
 
 Snapshots allow a server to be quickly reverted back to a set point in time. This can be very useful if you want to perform a short term test or configuration changes. However, due to the way that snapshots operate, a snapshot is not a backup of a machine and there is a 10 day max life of a snapshot.

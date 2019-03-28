@@ -13,6 +13,7 @@
 <div class="no-pdf">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2b2qnaBPDZM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
 ### Introduction
 
 During the lifespan of your server you may be faced with conditions that require you to adjust the size of existing disks, or add or delete disk partitions of your cloud server. Here's how to resize a disk through the Control Portal.

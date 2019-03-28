@@ -13,6 +13,7 @@
 <div class="no-pdf">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OhDD3MQGZa0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
 ### Introduction
 
 Scheduled Tasks are used to set automated activities against cloud servers. This enables you to do things like coordinate maintenance activities, turn off developer/test servers over the weekend, or automatically delete or archive servers at the end of a project. This guide will walkthrough how to schedule a task on a single server, but scheduled tasks can also be set for server groups.
