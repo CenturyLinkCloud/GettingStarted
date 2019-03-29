@@ -10,9 +10,11 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/204245874" frameborder="0" allowfullscreen></iframe>
 
 This video gives new users an overview of the Cloud Application Manager workspace. It focuses on setting up a provider and deploying a box using a default deployment policy.
+</div>
 
 ### Introduction
 

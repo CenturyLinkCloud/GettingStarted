@@ -10,10 +10,12 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/255620675" frameborder="0" allowfullscreen></iframe>
 <br>
 <br>
 This video series shows how to quickly create and configure a Microsoft SQL Server Relational Database. In Part 3, we will demonstrate logging in and running a stress test.
+</div>
 
 ### Introduction
 

@@ -10,9 +10,11 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/135104898" frameborder="0" allowfullscreen></iframe>
 
 This video shows how to quickly deploy a sample WordPress blog.
+</div>
 
 ### Introduction
 

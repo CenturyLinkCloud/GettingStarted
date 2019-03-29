@@ -10,7 +10,9 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/111544299" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Introduction
 

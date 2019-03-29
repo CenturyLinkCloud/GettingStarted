@@ -10,9 +10,11 @@
   "contentIsHTML": false
 }}}
 
+<div class="no-pdf">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/204246280" frameborder="0" allowfullscreen></iframe>
 
 This video shows users how to make a Cloud Application Manager registered VM instance managed (assigning the instance to be managed by Cloud Application Manager Managed Services).
+</div>
 
 ### Introduction
 
