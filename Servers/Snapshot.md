@@ -46,7 +46,4 @@ Snapshots allow a server to be quickly reverted back to a set point in time. Thi
 
   Congratulations, you've just taken and restored a server snapshot!
 
-  For more information on snapshots, check out these articles in the [CenturyLink Knowledge Base](http://www.ctl.io/knowledge-base/).
-
-* [Creating and Managing Server Snapshots](http://www.ctl.io/knowledge-base/servers/creating-and-managing-server-snapshots/)
-* [Group Snapshots](http://www.ctl.io/knowledge-base/servers/group-snapshots/)
+  For more information on snapshots, check out [Creating and Managing Server Snapshots](http://www.ctl.io/knowledge-base/servers/creating-and-managing-server-snapshots/) in our [Knowledge Base](http://www.ctl.io/knowledge-base/).
