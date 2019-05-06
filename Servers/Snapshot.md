@@ -1,4 +1,4 @@
-ctl.io{{{
+{{{
   "title": "Server Snapshot",
   "date": "04-05-2015",
   "author": "",
