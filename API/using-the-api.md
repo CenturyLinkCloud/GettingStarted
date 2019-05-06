@@ -18,7 +18,7 @@
 
 CenturyLink Public Cloud provides an API for performing the same actions programmatically as you can from within the Control Portal. This API is RESTful, using JSON messages over HTTP and relying on the standard HTTP verbs including `GET`, `POST`, `PUT`, `DELETE`, and `PATCH`. The general URL format of the service is: `https://api.ctl.io/v2/{resource}/{account alias}`.
 
-The following demo uses raw HTTP requests to show an example of using the API to create a server. Of course, you may choose to use any programming language you like that supports handling HTTP requests and responses using JSON messages. For a full listing of all supported API methods, see our complete [API Documentation](//www.centurylinkcloud.com/api-docs/v2).
+The following demo uses raw HTTP requests to show an example of using the API to create a server. Of course, you may choose to use any programming language you like that supports handling HTTP requests and responses using JSON messages. For a full listing of all supported API methods, see our complete [API Documentation](//www.ctl.io/api-docs/v2).
 
 ### Authenticate Against the API
 
@@ -73,7 +73,7 @@ If you provide invalid credentials, you will get an HTTP 400 (Bad Request) and t
 
 ### Call the Create Server API Endpoint
 
-The following raw HTTP request message shows how a user can make a secure API request to create a server. Note that the `bearerToken` from the previous authentication call is added to the header of the request. The JSON payload also includes all the information required for a new server including the name, description, template, password, sizing info, and the identifier of the parent group to put the server in (obtained from the Control Portal URL for that group or a [link](http://www.centurylinkcloud.com/api-docs/v2/#getting-started-api-v20-links-framework) returned from a previous API call).
+The following raw HTTP request message shows how a user can make a secure API request to create a server. Note that the `bearerToken` from the previous authentication call is added to the header of the request. The JSON payload also includes all the information required for a new server including the name, description, template, password, sizing info, and the identifier of the parent group to put the server in (obtained from the Control Portal URL for that group or a [link](http://www.ctl.io/api-docs/v2/#getting-started-api-v20-links-framework) returned from a previous API call).
 
 #### Request
 
@@ -94,7 +94,7 @@ The following raw HTTP request message shows how a user can make a secure API re
       "storageType": "standard"
     }
 
-The response is `HTTP 202 Accepted` (instead of `HTTP 200 OK`) which indicates that the request is a long-running process and a job was added to the queue to complete the server build. A JSON message is also returned with information about the newly requested server and a link to the [job status API](http://www.centurylinkcloud.com/api-docs/v2/#queue-get-status) endpoint to further track the completion of the request.
+The response is `HTTP 202 Accepted` (instead of `HTTP 200 OK`) which indicates that the request is a long-running process and a job was added to the queue to complete the server build. A JSON message is also returned with information about the newly requested server and a link to the [job status API](http://www.ctl.io/api-docs/v2/#queue-get-status) endpoint to further track the completion of the request.
 
 #### Response
 
