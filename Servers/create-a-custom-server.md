@@ -28,11 +28,11 @@ At the heart of the CenturyLink Platform is the ability to create and manage vir
 
   From top to bottom, the Create Server form will walk you through the required steps to successfully provision a new server in the CenturyLink Cloud Control Portal.
 
-  Choose a **data center** location for your server that's appropriate for your application. Depending on the chosen data center location, additional services &mdash; [Managed Services](http://www.centurylinkcloud.com/managed-services/), for example &mdash; will be enabled/disabled based on whether it's available in the selected data center. Then select the **group** to place that server in (the server can be moved to a different group later).
+  Choose a **data center** location for your server that's appropriate for your application. Depending on the chosen data center location, additional services &mdash; [Managed Services](http://www.ctl.io/managed-services/), for example &mdash; will be enabled/disabled based on whether it's available in the selected data center. Then select the **group** to place that server in (the server can be moved to a different group later).
 
   ![Server Create](../images/servers-create-2.png)
 
-  Select the ([Standard](http://www.centurylinkcloud.com/servers) server, operating system template and enter a name for the server. If you have created custom templates in your account, they will be available in the operating system dropdown list as well. Note that the price per hour changes based on the selected operating system licensing cost.
+  Select the ([Standard](http://www.ctl.io/servers) server, operating system template and enter a name for the server. If you have created custom templates in your account, they will be available in the operating system dropdown list as well. Note that the price per hour changes based on the selected operating system licensing cost.
 
 ### 3. Server Resources
 
@@ -56,7 +56,7 @@ At the heart of the CenturyLink Platform is the ability to create and manage vir
 
 ### 5. Server Lifespan (Time To Live)
 
-  We recognize that sometimes server lifespans should coincide with a project lifespan, so we offer an optional time-to-live that allows you to schedule when the server should automatically be deleted. Setting a time to live results in a new [Scheduled Task](http://www.centurylinkcloud.com/scheduling) added to the server. If you need to extend the life of the server, this scheduled task can be changed after the server is provisioned.
+  We recognize that sometimes server lifespans should coincide with a project lifespan, so we offer an optional time-to-live that allows you to schedule when the server should automatically be deleted. Setting a time to live results in a new [Scheduled Task](http://www.ctl.io/scheduling) added to the server. If you need to extend the life of the server, this scheduled task can be changed after the server is provisioned.
 
 ### 6. Queue The Server Build
 
