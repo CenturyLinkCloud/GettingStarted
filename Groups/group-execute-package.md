@@ -10,12 +10,6 @@
   "contentIsHTML": false
 }}}
 
-<div class="no-pdf">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1abMaKA4yt8" frameborder="0" allowfullscreen></iframe>
-</div>
-
-### Introduction
-
 CenturyLink Public Cloud users can easily run a script or install software on multiple servers at once by executing a package on any or all of the servers in a group. This is useful for performing tasks such as joining an entire set of servers to a domain, installing a new performance monitoring agent, or adding a software patch to a subset of machines.
 
 Packages execute against servers whether they are running or not; for servers that are not running, the service puts the server into a running state, executes the package, then restores the server to its previous state.
