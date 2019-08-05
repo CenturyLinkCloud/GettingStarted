@@ -10,12 +10,6 @@
   "contentIsHTML": false
 }}}
 
-<div class="no-pdf">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bJdAnDo4XBg" frameborder="0" allowfullscreen></iframe>
-</div>
-
-### Introduction
-
 Webhooks make it possible to subscribe to key events that occur in the CenturyLink Public Cloud. Platform events (e.g. "server created", "account updated", etc.) are sent in real-time as a an JSON message to a web endpoint configured for the Webhook. There are a number of use cases where you might be able to use Webhooks to replace or augment the components of existing processes. This includes replacing polling-based synchronization solutions, performing real-time data analytics, or monitoring activities with security or compliance implications, to name just a few.
 
 Below are the steps to create a Webhook listener, configure a Webhook, and receive a notification. For more details on Webhooks, see the [Webhooks FAQ](//www.ctl.io/api-docs/v2/#webhooks-webhooks-faq).

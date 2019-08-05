@@ -10,12 +10,6 @@
   "contentIsHTML": false
 }}}
 
-<div class="no-pdf">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kPKy2ixJeAU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-### Introduction
-
 Archiving a server suspends the operating system and migrates the instance to a [less costly storage tier](https://www.ctl.io/pricing). However, it should be noted that bringing a server out of an archive state can take a few hours, so *archive* should not be used as a means for controlling costs if the server needs to change state quickly.
 
 An example use case for *archive* would be if a business department has a reporting server that pulls data on a monthly basis from a 3rd party, and generates reports for business analysis. This server is required only two days per month and is otherwise unused. To save costs, the IT department schedules the server to be placed in archive and brought out of archived for operation during just these two days of the month.
