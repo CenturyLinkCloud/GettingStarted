@@ -42,7 +42,7 @@ Add a name for the account and then add your CenturyLink Cloud account credentia
 
 Clicking **Save** creates the provider and takes you to a separate page where you can view information about the provider, such as activity logs, configurations, and any unregistered instances of your account.
 
-For information on how to create a new provider for Azure, see this [video](./creating-new-provider-with-cloud-application-manager.md).
+For information on how to create a new provider for Azure, see this [knowledge base article](https://www.ctl.io/knowledge-base/cloud-application-manager/cloud-optimization/partner-cloud-integration-azure-new/).
 
 ### Deployment Policy Boxes
 
